@@ -15,7 +15,7 @@ At an era where more and more ecological questions are risen, it seems that Euro
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 - Open Food Facts https://world.openfoodfacts.org/data :
-The database is composed of alimentary products thare consumed around the world. Each product contains a list of ingredients, their origin, the country or places where the product is manufactured or transformed and the countries where the product is sold. The goal would be to use this information and create an interactive map showing the exchanges occuring between countries in term of alimentary goods.
+The database is composed of alimentary products that are consumed around the world. Each product contains a list of ingredients, their origin, the country or places where the product is manufactured or transformed and the countries where the product is sold. The goal would be to use this information and create an interactive map showing the exchanges occuring between countries in term of alimentary goods.
 
 # A list of internal milestones up until project milestone 2
 - We should determine the list of products that are sold in each country.
