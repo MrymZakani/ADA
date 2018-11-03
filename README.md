@@ -25,7 +25,7 @@ The database is composed of alimentary products thare consumed around the world.
     * products not originating from the country it is sold in
 - For each country, a statistic showing the amound of import and export could then be built
 - It would be then possible to determine bigger exportator of primary ressources and/or manufactured products. A link to major manufactor brands can also be made.
-- Create an (interactive) map showing these exchange
+- Create an (interactive) map showing these exchanges
 - Create a map showing major actors on the global food market
 
 # Questions for TAa
