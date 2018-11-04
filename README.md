@@ -19,30 +19,27 @@ The database is composed of alimentary products that are consumed around the wor
 
 # A list of internal milestones up until project milestone 2
 
-
-
-- 8 Nov- Milestone 1
-Cleaning/Exploring dataset
-Descriptive analysis
-- We should determine the list of products that are sold in each country.
-- We should then classify these products under different categories:
+## 4-12 Nov
+- Cleaning/Exploring dataset
+- Descriptive analysis
+  * We should determine the list of products that are sold in each country.
+  * We should then classify these products under different categories:
     * products entirely originating from the country it is sold in
     * products partially originating from the country (manufactured in the country but ingredients are from another country)
     * products not originating from the country it is sold in
-- For each country, a statistic showing the amount of import and export could then be built
-- It would be then possible to determine bigger exporter of primary resources and/or manufactured products. A link to major manufactor brands can also be made.
+  * For each country, a statistic showing the amount of import and export could then be built
+  * It would be then possible to determine bigger exporter of primary resources and/or manufactured products. A link to major manufactor brands can also be made.
 
-- 12 Nov
-Discuss narrative of the data story.
-Find related datasets to enrich our dataset
-Deciding Graph representation:
+## 12-19 Nov
+- Discuss the narrative of the data story.
+- Find related datasets to enrich our dataset
+- Deciding Graph representation
 
-
-- 19 Nov
-Having a clickable map
+## 19-25 Nov
+- Having a clickable map
     * Create an (interactive) map showing these exchanges
     * Create a map showing major actors on the global food market
-Finding blog skeleton.
+- Finding the blog skeleton.
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
