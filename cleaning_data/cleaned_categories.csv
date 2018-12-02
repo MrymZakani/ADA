@@ -1,0 +1,832 @@
+,categories,Count,category_main_fr,category_main
+0,Produits laitiers,41,Produits laitiers,Dairy products
+1,Aliments et boissons à base de végétaux,40,Aliments et boissons à base de végétaux,Plant based products
+2,Aliments d'origine végétale,37,Aliments et boissons à base de végétaux,Plant based products
+3,Frais,33,Surgelés,Frozen products
+4,Boissons,31,Boissons,Drinks
+5,Fromages,28,Produits laitiers,Dairy products
+6,Produits fermentés,19,Produits fermentés,Fermented products
+7,Plats préparés,18,Plats préparés,Ready meals
+8,Fromages pasteurisés,17,Produits laitiers,Dairy products
+9,Fromages de vache,16,Produits laitiers,Dairy products
+10,Produits laitiers fermentés,16,Produits laitiers,Dairy products
+11,Fromages industriels,15,Produits laitiers,Dairy products
+12,Boissons non sucrées,15,Boissons non sucrées,Drinks
+13,Desserts,13,Biscuits et gateaux,Confections
+14,Céréales et pommes de terre,13,Pains et céréales,"Grains, beans and legumes"
+15,Fromages de France,13,Produits laitiers,Dairy products
+16,Produits de la mer,12,Produits de la mer,"Meat, fish and egg"
+17,Petit-déjeuners,12,Pains et céréales,"Grains, beans and legumes"
+18,Snacks sucrés,11,Biscuits et gateaux,Confections
+19,Poissons,11,Produits de la mer,"Meat, fish and egg"
+20,Plats préparés à réchauffer au micro-ondes,10,Plats préparés,Ready meals
+21,Produits à tartiner,9,Pâtes à tartiner,Spreads
+22,Sauces,9,Sauces,Sauces
+23,Céréales et dérivés,9,Pains et céréales,"Grains, beans and legumes"
+24,Plant-based foods and beverages,9,Aliments et boissons à base de végétaux,Plant based products
+25,Aliments à base de fruits et de légumes,9,Aliments et boissons à base de végétaux,Plant based products
+26,Boissons à base de végétaux,8,Aliments et boissons à base de végétaux,Plant based products
+27,Epicerie,8,,
+28,Eaux minérales,8,Eau,Drinks
+29,Boissons végétales,8,Aliments et boissons à base de végétaux,Plant based products
+30,plant-based-foods-and-beverages,8,Aliments et boissons à base de végétaux,Plant based products
+31,Plant-based foods,8,Aliments et boissons à base de végétaux,Plant based products
+32,Eaux,8,Eau,Drinks
+33,Fermented milk products,7,Produits laitiers,Dairy products
+34,Charcuteries,7,Viandes et charcuteries,"Meat, fish and egg"
+35,Boissons alcoolisées,7,Boissons alcoolisées,Alcoholic beverages
+36,Pflanzliche Lebensmittel und Getränke,7,Aliments et boissons à base de végétaux,Plant based products
+37,Pflanzliche Lebensmittel,7,Aliments et boissons à base de végétaux,Plant based products
+38,Viandes,7,Viandes et charcuteries,"Meat, fish and egg"
+39,Boissons sucrées,6,Boissons,Drinks
+40,Dairies,6,Produits laitiers,Dairy products
+41,Conserves,6,Conserves,Canned products
+42,Mozzarella,6,Produits laitiers,Dairy products
+43,Légumes et dérivés,6,Aliments et boissons à base de végétaux,Plant based products
+44,Céréales pour petit-déjeuner,6,Pains et céréales,"Grains, beans and legumes"
+45,Laits,6,Produits laitiers,Dairy products
+46,Fromages italiens,6,Produits laitiers,Dairy products
+47,Cereals and potatoes,5,Pains et céréales,"Grains, beans and legumes"
+48,Canned foods,5,Conserves,Canned products
+49,Surgelés,5,Surgelés,Frozen products
+50,Légumineuses et dérivés,5,Légumineuses,"Grains, beans and legumes"
+51,Yaourts,5,Produits laitiers,Dairy products
+52,Produits à tartiner sucrés,5,Pâtes à tartiner,Spreads
+53,fresh-foods,5,,
+54,Boissons végétales de soja,5,Aliments et boissons à base de végétaux,Plant based products
+55,Eaux de sources,5,Eau,Drinks
+56,Plats préparés frais,5,Plats préparés,Ready meals
+57,Infusions,5,Thés et infusions,Tee and infusions
+58,Cheeses,5,Produits laitiers,Dairy products
+59, plant-based-foods,5,Aliments et boissons à base de végétaux,Plant based products
+60,Boissons chaudes,5,Boissons,Drinks
+61,Apéritif,4,Boissons alcoolisées,Alcoholic beverages
+62,Laits demi-écrémés,4,Produits laitiers,Dairy products
+63,Édulcorants,4,,
+64,Fromages à pâte filée,4,Produits laitiers,Dairy products
+65,Légumes en conserve,4,Conserves,Canned products
+66,Pâtes alimentaires,4,Pâtes alimentaires,
+67,Plats préparés réfrigérés,4,"Plats préparés, Surgelés",
+68,Viennoiseries,4,Biscuits et gateaux,Confections
+69,sugary-snacks,4,Biscuits et gateaux,Confections
+70,Produits d'élevages,4,,
+71,Vins,4,Boissons alcoolisées,Alcoholic beverages
+72,Produits labellisés,4,,
+73,Porc,4,Viandes et charcuteries,"Meat, fish and egg"
+74,Thés,4,Thés et infusions,Tee and infusions
+75, biscuits-and-cakes,4,Biscuits et gateaux,Confections
+76,meals,4,Plats préparés,Ready meals
+77,Plats à base de viande,4,Plats préparés,Ready meals
+78,Biscuits et gâteaux,4,Biscuits et gateaux,Confections
+79,Matières grasses,4,,
+80, cereals-and-their-products,4,Pains et céréales,"Grains, beans and legumes"
+81,Sauces tomate,4,Sauces,Sauces
+82,Biscuits,4,Biscuits et gateaux,Confections
+83,Laits UHT,4,Produits laitiers,Dairy products
+84,Fermented foods,4,,
+85,Filets de poissons,4,Produits de la mer,"Meat, fish and egg"
+86,meats,4,Viandes et charcuteries,"Meat, fish and egg"
+87,Pains,4,Pains et céréales,"Grains, beans and legumes"
+88,Meals,4,Plats préparés,Ready meals
+89, cereals-and-potatoes,4,Pains et céréales,"Grains, beans and legumes"
+90,Fromages à pâte fraîche,4,Produits laitiers,Dairy products
+91,Fishes,3,Produits de la mer,"Meat, fish and egg"
+92, beverages,3,Boissons,Drinks
+93,Ketchup,3,Sauces,Sauces
+94,Substitut du lait,3,,
+95,Jus et nectars,3,Boissons,Drinks
+96,Biscottes,3,Pains et céréales,"Grains, beans and legumes"
+97,Boissons gazeuses,3,Boissons,Drinks
+98,Whiskys,3,Boissons alcoolisées,Alcoholic beverages
+99,Cereals and their products,3,Pains et céréales,"Grains, beans and legumes"
+100,Desserts au soja,3,Aliments et boissons à base de végétaux,Plant based products
+101,Fromages à tartiner,3,Produits laitiers,Dairy products
+102,Fruits and vegetables based foods,3,Aliments et boissons à base de végétaux,Plant based products
+103,Chocolats,3,Chocolats,Confections
+104,Alcools forts,3,Boissons alcoolisées,Alcoholic beverages
+105,Laits homogénéisés,3,Produits laitiers,Dairy products
+106,Vins français,3,Boissons alcoolisées,Alcoholic beverages
+107,Yaourts natures,3,Produits laitiers,Dairy products
+108,Saumons,3,Produits de la mer,"Meat, fish and egg"
+109,Condiments,3,Condiments,Condiments
+110,Eaux-de-vie,3,Boissons alcoolisées,Alcoholic beverages
+111,Desserts végétaliens,3,Aliments et boissons à base de végétaux,Plant based products
+112,Produits à tartiner salés,3,Pâtes à tartiner,Spreads
+113,Babynahrung,3,Nourriture pour bébé,Baby food
+114,Beverages,3,Boissons,Drinks
+115,Fromages au lait cru,3,Produits laitiers,Dairy products
+116,Fresh foods,3,,
+117,Thons en conserve,3,"Conserves, Produits de la mer",
+118,Aliments à base de plantes en conserve,3,"Aliments et boissons à base de végétaux, Conserves",
+119, biscuits,3,Biscuits et gateaux,Confections
+120,Jambons,3,Viandes et charcuteries,"Meat, fish and egg"
+121,Fromage,3,Produits laitiers,Dairy products
+122,plant-based-foods,3,Aliments et boissons à base de végétaux,Plant based products
+123,Desserts lactés,3,Produits laitiers,Dairy products
+124,Vins rouges,3,Boissons alcoolisées,Alcoholic beverages
+125,Eaux minérales naturelles,3,Eau,Drinks
+126,Légumes frais,3,,
+127,Seafood,3,Produits de la mer,"Meat, fish and egg"
+128,Plats à base de viande bovine,3,"Viandes et charcuteries, Plats préparés",
+129,Compotes,3,Compote de fruits,Baby food
+130,Fruits et produits dérivés,3,,
+131,Fromages AOC,3,Produits laitiers,Dairy products
+132,Compotes de pomme,3,Compote de fruits,Baby food
+133,Poissons en conserve,3,"Conserves, Produits de la mer",
+134,Produits AOC,3,,
+135,Boissons sans alcool,3,Boissons,Drinks
+136,Produits de l'olivier,3,,
+137,Getreide und Kartoffeln,3,Pains et céréales,"Grains, beans and legumes"
+138,Poissons surgelés,2,"Produits de la mer, Surgelés",
+139,Pâtes à tartiner aux noisettes,2,Pâtes à tartiner,Spreads
+140,dried-meals,2,,
+141,Fromages à pâte pressée demi-cuite,2,Produits laitiers,Dairy products
+142,cereals-and-their-products,2,Pains et céréales,"Grains, beans and legumes"
+143,fr:nouilles-orientales,2,Pâtes alimentaires,
+144,Spreads,2,Pâtes à tartiner,Spreads
+145,Sauces Pesto,2,Sauces,Sauces
+146,Oilseed purees,2,,
+147,Breads,2,Pains et céréales,"Grains, beans and legumes"
+148,Canned vegetables,2,Conserves,Canned products
+149,Huiles d'olive,2,Huiles,Oils
+150,Crèmes glacées,2,Produits laitiers,Dairy products
+151,cereals-and-potatoes,2,"Pains et céréales, Pommes de terre",
+152,fr:nouilles-asiatiques,2,Pâtes alimentaires,
+153,Compotes allégées,2,Compote de fruits,Baby food
+154,Huiles,2,Huiles,Oils
+155,Fromages à pâte molle à croûte lavée,2,Produits laitiers,Dairy products
+156,soups,2,Aliments et boissons à base de végétaux,Plant based products
+157,Poisson,2,Produits de la mer,"Meat, fish and egg"
+158,Fromages de chèvre,2,Produits laitiers,Dairy products
+159,Plats préparés aux noix de Saint-Jacques,2,"Produits de la mer, Plats préparés",
+160,Compotes pommes nature,2,Compote de fruits,Baby food
+161, beef-dishes,2,"Viandes et charcuteries, Plats préparés",
+162, meals-with-meat,2,"Viandes et charcuteries, Plats préparés",
+163,Vegetables based foods,2,Aliments et boissons à base de végétaux,Plant based products
+164,Canned plant-based foods,2,"Aliments et boissons à base de végétaux, Conserves",
+165,Charcuteries cuites,2,Viandes et charcuteries,"Meat, fish and egg"
+166,Pommes de terre,2,Pommes de terre,
+167,Pizzas,2,Plats préparés,Ready meals
+168,Groceries,2,,
+169,Olive oils,2,Huiles,Oils
+170,Eaux gazeuses,2,Eau,Drinks
+171,dehydrated-soups,2,Plats préparés,Ready meals
+172,Boissons aux fruits,2,Boissons,Drinks
+173,Jambons blancs,2,Viandes et charcuteries,"Meat, fish and egg"
+174,Produits sans gluten,2,Produits sans gluten,
+175, mineral-waters,2,Eau,Drinks
+176,Canned fishes,2,"Conserves, Produits de la mer",
+177,instant-noodles,2,Pâtes alimentaires,
+178,Fromages à pâte molle à croûte fleurie,2,Produits laitiers,Dairy products
+179,Thés verts étuvés,2,Thés et infusions,Tee and infusions
+180,dried-products-to-be-rehydrated,2,,
+181,Thons,2,Produits de la mer,"Meat, fish and egg"
+182,Pâtes farcies,2,Plats préparés,Ready meals
+183, meals,2,Plats préparés,Ready meals
+184,Fromages des Pays-Bas,2,Produits laitiers,Dairy products
+185,Fromages en tranches,2,Produits laitiers,Dairy products
+186,Meat-based products,2,"Viandes et charcuteries, Plats préparés",
+187,Fromages double crème,2,Produits laitiers,Dairy products
+188,Jus et nectars de fruits,2,Jus de fruits,Drinks
+189,Whisky écossais,2,Boissons alcoolisées,Alcoholic beverages
+190,Canned tunas,2,"Produits de la mer, Conserves",
+191,Artichauts en conserve,2,Conserves,Canned products
+192,Fromages à pâte fondue,2,Produits laitiers,Dairy products
+193,Brioches,2,Pains et céréales,"Grains, beans and legumes"
+194,Fette,2,,
+195,Surimi,2,,
+196,Comté,2,Produits laitiers,Dairy products
+197,Tunas,2,Produits de la mer,"Meat, fish and egg"
+198,Fromages blancs,2,Produits laitiers,Dairy products
+199,Produits de la ruche,2,Miels,Honeys
+200,Fromages labéllisés,2,Produits laitiers,Dairy products
+201,Champignons en conserve,2,Conserves,Canned products
+202,Sugary snacks,2,Biscuits et gateaux,Confections
+203,Produits panés,2,Plats préparés,Ready meals
+204,nach dem 4. Monat,2,,
+205, cheeses,2,Produits laitiers,Dairy products
+206,Sauces pour pâtes,2,Sauces,Sauces
+207,Desserts au chocolat,2,,
+208,dried-products,2,,
+209,Plats à base de volaille,2,Viandes et charcuteries,"Meat, fish and egg"
+210,Yaourts entiers,2,Produits laitiers,Dairy products
+211, desserts,2,,
+212,Biscuits secs,2,Biscuits et gateaux,Confections
+213,Pasteurized cheeses,2,Produits laitiers,Dairy products
+214,fr:Foies gras de canard,2,Viandes et charcuteries,"Meat, fish and egg"
+215,Lasagnes préparées,2,Plats préparés,Ready meals
+216,Jambons crus,2,Viandes et charcuteries,"Meat, fish and egg"
+217,Non-sugared beverages,2,Boissons non sucrées,Drinks
+218,Breakfasts,2,Pains et céréales,"Grains, beans and legumes"
+219,Plant-based spreads,2,"Aliments et boissons à base de végétaux, Pâtes à tartiner",
+220,Chocolats noirs,2,Chocolats,Confections
+221,Pflanzenfette,2,,
+222,Œufs de poisson,2,Produits de la mer,"Meat, fish and egg"
+223,Frozen ready-made meals,2,"Surgelés, Plats préparés",
+224,Pâtes sèches,2,Pâtes alimentaires,
+225,Jambons de Paris,2,Viandes et charcuteries,"Meat, fish and egg"
+226,Vegetable oils,2,Huiles,Oils
+227,fr:soupes-de-nouilles,2,Plats préparés,Ready meals
+228,Pâtes à tartiner,2,Pâtes à tartiner,Spreads
+229,Flocons d'avoine,2,Pains et céréales,"Grains, beans and legumes"
+230,Miels,2,Miels,Honeys
+231,Œufs d'oiseau,2,Oeufs,
+232,Légumes,2,Légumes,Vegetables
+233,Fromages à pâte pressée cuite,2,Produits laitiers,Dairy products
+234,dairies,2,Produits laitiers,Dairy products
+235,Plats à base de poulet,2,Plats préparés,Ready meals
+236,Thés verts,2,Thés et infusions,Tee and infusions
+237,Céréales au chocolat,2,"Pains et céréales, Chocolats",
+238,Eaux minérales gazeuses,2,Eau,Drinks
+239,Tomates séchées,2,,
+240,Œufs,2,Oeufs,
+241,Matières grasses végétales,2,Huiles,Oils
+242,Pizzas tartes salées et quiches,2,Plats préparés,Ready meals
+243,fr:Bloc de foie gras,2,Viandes et charcuteries,"Meat, fish and egg"
+244,Snacks salés,2,,
+245,Vins effervescents,2,Boissons alcoolisées,Alcoholic beverages
+246,noodles,2,Pâtes alimentaires,
+247,Getreide und Getreideprodukte,2,Pains et céréales,"Grains, beans and legumes"
+248,Champagnes bruts,2,Boissons alcoolisées,Alcoholic beverages
+249, prepared-meats,2,Plats préparés,Ready meals
+250,Fromages râpés,2,Produits laitiers,Dairy products
+251,Olive tree products,2,,
+252,Œufs de poules élevées en plein air,2,Oeufs,
+253,Pickles,1,,
+254,waters,1,Eau,Drinks
+255,Céréales au caramel,1,Pains et céréales,"Grains, beans and legumes"
+256,salty-snacks,1,,
+257, pasta-sauces,1,Sauces,Sauces
+258,Rösti,1,"Pommes de terre, Plats préparés",
+259,Fermented drinks,1,,
+260, chips-and-fries,1,Pommes de terre,
+261,Yellowfin tunas,1,Produits de la mer,"Meat, fish and egg"
+262,Céréales pour petits déjeuners,1,Pains et céréales,"Grains, beans and legumes"
+263,Olives vertes dénoyautées,1,,
+264, carbonated-mineral-waters,1,,
+265,Sodas aux fruits,1,Boissons,Drinks
+266,plats préparés,1,Plats préparés,Ready meals
+267,Cabernet-Syrah,1,,
+268,Graines de légumineuses,1,Légumineuses,"Grains, beans and legumes"
+269, waters,1,Eau,Drinks
+270,Boissons lactées fermentées,1,Produits laitiers,Dairy products
+271,Boissons végétales de soja au chocolat,1,"Aliments et boissons à base de végétaux, Chocolats",
+272, tinned-mackerels,1,"Conserves, Produits de la mer",
+273, pork,1,Viandes et charcuteries,"Meat, fish and egg"
+274,Couscous préparés,1,"Plats préparés, Pains et céréales",
+275,Lorraine quiche,1,Plats préparés,Ready meals
+276,Pates-seches-semi-completes,1,Pâtes alimentaires,
+277,de:pflanzliche-lebensmittel,1,Aliments et boissons à base de végétaux,Plant based products
+278,Pommes de terre Charlotte,1,Pommes de terre,
+279, beef-ravioli,1,Plats préparés,Ready meals
+280, non-dairy-desserts,1,,
+281,Champagne,1,Boissons alcoolisées,Alcoholic beverages
+282,Laits microfiltrés,1,Produits laitiers,Dairy products
+283,salade de fruits,1,Fruits,Fruits
+284,Yaourts à boire goût vanille,1,Produits laitiers,Dairy products
+285,Filets de maquereaux au vin blanc et aromates,1,Plats préparés,Ready meals
+286,Petits pois et carottes en conserve,1,"Conserves, Légumes",
+287,Fromages à pâte pressée non cuite,1,Produits laitiers,Dairy products
+288, chickens,1,Viandes et charcuteries,"Meat, fish and egg"
+289,Wines from Spain,1,Boissons alcoolisées,Alcoholic beverages
+290,Cheeseburger,1,Plats préparés,Ready meals
+291, soy-desserts,1,Plats préparés,Ready meals
+292,Kuhmilchkäse,1,Produits laitiers,Dairy products
+293,Biscottes sans sucre ajouté,1,Pains et céréales,"Grains, beans and legumes"
+294,Thés aromatisés,1,Thés et infusions,Tee and infusions
+295, fr:lardons,1,Viandes et charcuteries,"Meat, fish and egg"
+296,Jus de betterave,1,Jus de fruits,Drinks
+297,Tomates séchées à l'huile,1,,
+298, sauces,1,Sauces,Sauces
+299, chocolate-biscuits,1,"Biscuits et gateaux, Chocolats",
+300,Produits à teneur réduite en sel,1,,
+301,Lentilles vertes,1,Légumineuses,"Grains, beans and legumes"
+302,Saumons sauvages,1,Produits de la mer,"Meat, fish and egg"
+303,Tartes,1,Plats préparés,Ready meals
+304,Labeled products,1,,
+305,Labeled cheeses,1,Produits laitiers,Dairy products
+306,Kohlensäurehaltige Getränke,1,Boissons,Drinks
+307,Bonbons gélifiés,1,,
+308, mackerels,1,Produits de la mer,"Meat, fish and egg"
+309,Crevettes,1,Produits de la mer,"Meat, fish and egg"
+310,Crisps,1,Pommes de terre,
+311,it:Grana Padano,1,Produits laitiers,Dairy products
+312,Champagnes français,1,Boissons alcoolisées,Alcoholic beverages
+313, fr:cordons-bleus,1,"Viandes et charcuteries, Plats préparés",
+314,Micro-ondes,1,Plats préparés,Ready meals
+315,carbonated-drinks,1,Boissons,Drinks
+316,Paprika,1,Condiments,Condiments
+317,Oeufs labellisés,1,Oeufs,
+318,microwave-meals,1,Plats préparés,Ready meals
+319,Chocolats noirs extra fin,1,Chocolats,Confections
+320,Pop-corn,1,,
+321, frozen-ground-steaks,1,,
+322,Compotes pommes abricot,1,Compote de fruits,Baby food
+323,Semi-skimmed milks,1,Produits laitiers,Dairy products
+324,Mint sauces,1,Sauces,Sauces
+325,Purées,1,Nourriture pour bébé,Baby food
+326,Olives noires,1,,
+327,Herbal teas,1,Thés et infusions,Tee and infusions
+328, fr:Câpres,1,,
+329,Plats préparés surgelés,1,"Plats préparés, Surgelés",
+330,Colins,1,Produits de la mer,"Meat, fish and egg"
+331,Jus de fruits 100% pur jus,1,Aliments et boissons à base de végétaux,Plant based products
+332,de:Siropes de arce,1,,
+333,Céréales préparées,1,Pains et céréales,"Grains, beans and legumes"
+334, canned-raviolis,1,"Plats préparés, Conserves",
+335,Camemberts,1,Produits laitiers,Dairy products
+336,Crêpes,1,,
+337,Champagnes,1,Boissons alcoolisées,Alcoholic beverages
+338,Côtes du Rhône,1,,
+339,Säfte und Nektare,1,Jus de fruits,Drinks
+340,Tomates confites,1,Aliments et boissons à base de végétaux,Plant based products
+341,Pains grillés,1,Pains et céréales,"Grains, beans and legumes"
+342,shelled-almonds,1,,
+343,Foies gras,1,Viandes et charcuteries,"Meat, fish and egg"
+344,Viandes en conserve,1,"Viandes et charcuteries, Conserves",
+345,Yaourts aux fruits,1,Produits laitiers,Dairy products
+346,Produits à faible teneur en matières grasses,1,,
+347,Charcuterie,1,Viandes et charcuteries,"Meat, fish and egg"
+348,groceries,1,,
+349,Biscuits à la noix de coco,1,Biscuits et gateaux,Confections
+350, pastas,1,Pâtes alimentaires,
+351,Aliments et boissons à base de légumes,1,Aliments et boissons à base de végétaux,Plant based products
+352,Snacks und Desserts für Babies,1,Nourriture pour bébé,Baby food
+353,Glaces et sorbets,1,,
+354,Hot beverages,1,,
+355, puffed-cereals,1,Pains et céréales,"Grains, beans and legumes"
+356,Bresaolas,1,Viandes et charcuteries,"Meat, fish and egg"
+357,Sirops d'agave,1,,
+358,Laits de chèvre,1,Produits laitiers,Dairy products
+359,Thons blancs,1,Produits de la mer,"Meat, fish and egg"
+360, frozen-pizzas-and-pies,1,"Plats préparés, Surgelés",
+361,lait,1,Produits laitiers,Dairy products
+362,Piments,1,Condiments,Condiments
+363,Desserts de soja au cacao,1,,
+364,Truffes,1,,
+365,Thons au naturel,1,Produits de la mer,"Meat, fish and egg"
+366,Fromages de Grèce,1,Produits laitiers,Dairy products
+367,Laits de soja naturel sans sucre,1,Aliments et boissons à base de végétaux,Plant based products
+368, Plant-based foods,1,Aliments et boissons à base de végétaux,Plant based products
+369,Banyuls,1,,
+370,Pavés de saumon,1,Produits de la mer,"Meat, fish and egg"
+371,Miels liquides,1,Miels,Honeys
+372,Teas,1,Thés et infusions,Tee and infusions
+373,Cranberries sucrées et séchées,1,Fruits séchés,Dried fruits and nuts
+374,Crêpes and galettes,1,,
+375,Crèmes dessert,1,,
+376,Filets de maquereaux,1,Produits de la mer,"Meat, fish and egg"
+377,it:vinaigres-balsamiques,1,,
+378,Fruits frais,1,Fruits,Fruits
+379,fr:Mueslis aux fruits,1,,
+380, extra-virgin-olive-oils,1,,
+381,Smoked salmons,1,Produits de la mer,"Meat, fish and egg"
+382,Bebidas,1,,
+383,Vino blanco,1,Boissons alcoolisées,Alcoholic beverages
+384, fresh-foods,1,,
+385,Single malts,1,,
+386,Sauces pimentées,1,Sauces,Sauces
+387,Crevettes roses,1,Produits de la mer,"Meat, fish and egg"
+388,Boisson au riz à l'amande,1,Aliments et boissons à base de végétaux,Plant based products
+389,Buttertoast,1,Pains et céréales,"Grains, beans and legumes"
+390,Pâtisseries,1,Biscuits et gateaux,Confections
+391,Mousses de foies,1,Viandes et charcuteries,"Meat, fish and egg"
+392,Glaces aux noisettes,1,,
+393,it:vinaigres,1,,
+394,Snacks salées,1,,
+395,Filets de thon,1,Produits de la mer,"Meat, fish and egg"
+396,Fromages au poivre,1,Produits laitiers,Dairy products
+397,Pains grillés au froment,1,Pains et céréales,"Grains, beans and legumes"
+398,Plats préparés à réchauffer au four traditionnel,1,Plats préparés,Ready meals
+399,Aliments à base de plantes frais,1,Aliments et boissons à base de végétaux,Plant based products
+400,Œufs de Saumon,1,Produits de la mer,"Meat, fish and egg"
+401,Italienischer Käse,1,Viandes et charcuteries,"Meat, fish and egg"
+402,Pâtes à tartiner végétaux,1,Aliments et boissons à base de végétaux,Plant based products
+403,Bloc foie gras de canard,1,Viandes et charcuteries,"Meat, fish and egg"
+404,Crêpes dentelle,1,Biscuits et gateaux,Confections
+405,frozen-foods,1,Surgelés,Frozen products
+406, meat-preparations,1,Viandes et charcuteries,"Meat, fish and egg"
+407, white-hams,1,Viandes et charcuteries,"Meat, fish and egg"
+408,fr:plats-prepares-a-rechauffer-au-bain-marie,1,Plats préparés,Ready meals
+409,Ab 12. Monat,1,,
+410,Manchons de poulet,1,Viandes et charcuteries,"Meat, fish and egg"
+411, frozen-pies,1,"Plats préparés, Surgelés",
+412, dairies,1,Produits laitiers,Dairy products
+413,Légumes secs,1,Légumineuses,"Grains, beans and legumes"
+414,Sucres,1,,
+415,Cereal flakes,1,Pains et céréales,"Grains, beans and legumes"
+416,Instant-Nudeln,1,Pâtes alimentaires,
+417,biscuits-and-cakes,1,Biscuits et gateaux,Confections
+418,Sliced cheeses,1,Produits laitiers,Dairy products
+419,Getreideflocken,1,,
+420,meals-with-meat,1,"Viandes et charcuteries, Plats préparés",
+421,Figues sèches,1,Fruits séchés,Dried fruits and nuts
+422, fr:Moussakas,1,,
+423,Pizzas au fromage,1,Plats préparés,Ready meals
+424,Laits demi-écrémés biologiques,1,Produits laitiers,Dairy products
+425,Yeast extract spreads,1,Pâtes à tartiner,Spreads
+426,es:Postres vegetales con vainilla,1,,
+427,Champagnes rosés bruts,1,Boissons alcoolisées,Alcoholic beverages
+428,Laits frais,1,Produits laitiers,Dairy products
+429,Charcuteries à cuire,1,Viandes et charcuteries,"Meat, fish and egg"
+430,Bleus de Bresse,1,Produits laitiers,Dairy products
+431,Cashew butters,1,Pâtes à tartiner,Spreads
+432,Miel,1,Miels,Honeys
+433,Tropical tunas,1,Produits de la mer,"Meat, fish and egg"
+434,desserts,1,,
+435, fermented-foods,1,,
+436,Saumons fumés,1,Produits de la mer,"Meat, fish and egg"
+437,Laits à teneur réduite en lactose,1,Produits laitiers,Dairy products
+438,Escargots,1,,
+439,Saucissons secs,1,Viandes et charcuteries,"Meat, fish and egg"
+440,Half-cooked pressed cheeses,1,Viandes et charcuteries,"Meat, fish and egg"
+441,Entrées et snacks surgelés,1,Surgelés,Frozen products
+442,Tiefkühlprodukte,1,,
+443,Mixed cereal flakes,1,Pains et céréales,"Grains, beans and legumes"
+444,Nectars de fruits,1,Jus de fruits,Drinks
+445,Fruits à coques et dérivés,1,,
+446,AOC cheeses,1,Produits laitiers,Dairy products
+447,Thés noirs,1,Thés et infusions,Tee and infusions
+448,Yaourts à boire,1,Produits laitiers,Dairy products
+449,Compotes à boire,1,Compote de fruits,Baby food
+450,Mueslis aux graines,1,,
+451,Fromages triple-crèmes,1,Produits laitiers,Dairy products
+452, frozen-foods,1,Surgelés,Frozen products
+453, steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+454,Lentilles,1,Légumineuses,"Grains, beans and legumes"
+455,Mueslis,1,,
+456,fr:Foies gras cuits,1,Viandes et charcuteries,"Meat, fish and egg"
+457,Rollmops,1,,
+458,Flocons,1,Pains et céréales,"Grains, beans and legumes"
+459,Légumineuses,1,Légumineuses,"Grains, beans and legumes"
+460,Terrines,1,Viandes et charcuteries,"Meat, fish and egg"
+461,Paëlla,1,Plats préparés,Ready meals
+462,Yaourts brassés,1,Produits laitiers,Dairy products
+463,Compotes pommes cerise,1,Compote de fruits,Baby food
+464,Coulommiers,1,,
+465, fr:fromages-blancs,1,Produits laitiers,Dairy products
+466,Viandes en gelée,1,Viandes et charcuteries,"Meat, fish and egg"
+467, vegetable-fats,1,,
+468, vegetable-oils,1,Huiles,Oils
+469, ground-steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+470,Fruits en conserves,1,Conserves de fruits,
+471,Toasts,1,Pains et céréales,"Grains, beans and legumes"
+472,Viande,1,Viandes et charcuteries,"Meat, fish and egg"
+473,Industrial cheese,1,Produits laitiers,Dairy products
+474, frozen-ground-beef-steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+475,Plats préparés à réchauffer au bain-marie,1,Plats préparés,Ready meals
+476, crisps,1,Pommes de terre,
+477,Jus de grenade,1,Jus de fruits,Drinks
+478,de:Siropes simples,1,,
+479,Smoked fishes,1,Produits de la mer,"Meat, fish and egg"
+480,Pizzas calzones,1,Plats préparés,Ready meals
+481,Milks,1,Produits laitiers,Dairy products
+482, ravioli,1,Plats préparés,Ready meals
+483,Crevettes panées,1,"Plats préparés, Produits de la mer",
+484, cakes,1,Biscuits et gateaux,Confections
+485,Rice Crackers,1,Biscuits et gateaux,Confections
+486,Milk bread rolls,1,Pains et céréales,"Grains, beans and legumes"
+487,Noix,1,,
+488,Fromages de brebis,1,Produits laitiers,Dairy products
+489,Huiles d'olive vierges,1,Huiles,Oils
+490,Surgelé,1,Surgelés,Frozen products
+491, cereal-grains,1,Pains et céréales,"Grains, beans and legumes"
+492,Saucissons secs pur porc,1,Viandes et charcuteries,"Meat, fish and egg"
+493,Riz thaï noir,1,Riz,
+494,Maquereaux,1,Produits de la mer,"Meat, fish and egg"
+495,Vegetables,1,Légumes,Vegetables
+496,Pizzas aux quatre fromages,1,Plats préparés,Ready meals
+497, sugary-snacks,1,Biscuits et gateaux,Confections
+498,Salmons,1,Produits de la mer,"Meat, fish and egg"
+499,Nuts and their products,1,Fruits à coque,
+500,Thons à l'huile,1,Produits de la mer,"Meat, fish and egg"
+501,Graines,1,,
+502,Pizzas pies and quiches,1,Plats préparés,Ready meals
+503,Thons à l'huile d'olive,1,Produits de la mer,"Meat, fish and egg"
+504,Sauces Arrabiata,1,Sauces,Sauces
+505,Quiches au poireau,1,Plats préparés,Ready meals
+506,Chocolats au lait édulcorés,1,Chocolats,Confections
+507,Nectar de fruits,1,Jus de fruits,Drinks
+508, fr:charcuteries-diverses,1,Viandes et charcuteries,"Meat, fish and egg"
+509, canned-fishes,1,"Conserves, Produits de la mer",
+510,Spaghettis,1,Pâtes alimentaires,
+511,Plant-based beverages,1,Aliments et boissons à base de végétaux,Plant based products
+512, frozen-meats,1,Viandes et charcuteries,"Meat, fish and egg"
+513, ground-beef-steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+514, fish-fillets,1,Produits de la mer,"Meat, fish and egg"
+515, fr:Pois cassés,1,Légumineuses,"Grains, beans and legumes"
+516,briochettes,1,,
+517,Fromages à pâte persillée français,1,Produits laitiers,Dairy products
+518,Croquants aux amandes,1,,
+519, canned-meals,1,"Plats préparés, Conserves",
+520, puffed-grains,1,Pains et céréales,"Grains, beans and legumes"
+521,Glaces,1,Produits laitiers,Dairy products
+522,almonds,1,Fruits à coque,
+523, natural-mineral-waters,1,Eau,Drinks
+524,canned-foods,1,"Plats préparés, Conserves",
+525,Yaourts au bifidus,1,Produits laitiers,Dairy products
+526, breakfasts,1,,
+527,Italian cheeses,1,Produits laitiers,Dairy products
+528,Pâtes fraîches,1,Pâtes alimentaires,
+529,Pâtes à tartiner aux noisettes et au cacao,1,Pâtes à tartiner,Spreads
+530,Milkfat,1,Produits laitiers,Dairy products
+531,Produit de la mer,1,Produits de la mer,"Meat, fish and egg"
+532,fr:porcs-au-caramel,1,,
+533,Nut butters,1,Pâtes à tartiner,Spreads
+534,Poitrines de porc,1,Viandes et charcuteries,"Meat, fish and egg"
+535,Legumes and their products,1,Légumineuses,"Grains, beans and legumes"
+536,Pesto,1,Sauces,Sauces
+537,Tuna in brine,1,Produits de la mer,"Meat, fish and egg"
+538,Sliced breads,1,Pains et céréales,"Grains, beans and legumes"
+539,Erdnussbutter,1,Pâtes à tartiner,Spreads
+540,Torsades,1,Pains et céréales,"Grains, beans and legumes"
+541,Grains soufflées,1,Pains et céréales,"Grains, beans and legumes"
+542,Erfrischungsgetränke,1,Boissons,Drinks
+543, appetizers,1,,
+544,Figues séchées,1,Fruits séchés,Dried fruits and nuts
+545,Saucisses françaises,1,Viandes et charcuteries,"Meat, fish and egg"
+546,Kirschen,1,Fruits,Fruits
+547,Poissons panés,1,Plats préparés,Ready meals
+548,Compote pomme framboise,1,Compote de fruits,Baby food
+549,Beurres,1,Produits laitiers,Dairy products
+550,Laits entiers,1,Produits laitiers,Dairy products
+551, olive-oils,1,Huiles,Oils
+552, seeds,1,Fruits à coque,
+553,Oeufs labellisés biologiques,1,Oeufs,
+554,Morues,1,Produits de la mer,"Meat, fish and egg"
+555,Cheeses of the Netherlands,1,Produits laitiers,Dairy products
+556,Camemberts pasteurisés,1,Produits laitiers,Dairy products
+557,Waters,1,Eau,Drinks
+558, processed-cheese,1,Produits laitiers,Dairy products
+559,de:Siropes,1,,
+560,Chocolats au lait,1,Chocolats,Confections
+561, wheats,1,Pains et céréales,"Grains, beans and legumes"
+562,fresh-meals,1,Plats préparés,Ready meals
+563,10 years old,1,,
+564,Fresh milks,1,Produits laitiers,Dairy products
+565,Desserts glacés,1,,
+566,fromage frais nature,1,Produits laitiers,Dairy products
+567,Saucissons,1,Viandes et charcuteries,"Meat, fish and egg"
+568,Pains complets,1,Pains et céréales,"Grains, beans and legumes"
+569,Pizzas et tartes surgelées,1,"Plats préparés, Surgelés",
+570,gouter,1,,
+571,Fruits based foods,1,Aliments et boissons à base de végétaux,Plant based products
+572, frozen-steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+573,Poissons à la bordelaise,1,Plats préparés,Ready meals
+574, fr:cereales-au-miel,1,Pains et céréales,"Grains, beans and legumes"
+575,Sandwichs,1,Plats préparés,Ready meals
+576, stuffed-pastas,1,Plats préparés,Ready meals
+577,Bordeaux,1,Boissons alcoolisées,Alcoholic beverages
+578, dairy-desserts,1,Produits laitiers,Dairy products
+579,White tahini,1,,
+580,Olives,1,,
+581,fr:Sirop d'érable,1,,
+582,Canned corn,1,"Conserves, Légumes",
+583,Fromages à pâte persillée,1,Produits laitiers,Dairy products
+584,Pains-au-lait-aux-oeufs-frais,1,Plats préparés,Ready meals
+585, puddings,1,,
+586,Black teas,1,Thés et infusions,Tee and infusions
+587,Boissons végétales desoja à la vanille,1,Aliments et boissons à base de végétaux,Plant based products
+588,Tortellini,1,Pâtes alimentaires,
+589,fr:Boissons végétales de soja,1,Aliments et boissons à base de végétaux,Plant based products
+590,Sirops,1,Boissons,Drinks
+591,Charcuteries diverses,1,Viandes et charcuteries,"Meat, fish and egg"
+592,Riz noirs,1,Riz,
+593,Biscuits au chocolat noir,1,Biscuits et gateaux,Confections
+594,pork-meals,1,Plats préparés,Ready meals
+595, breaded-products,1,Pains et céréales,"Grains, beans and legumes"
+596,fr:FRomages de vache,1,Produits laitiers,Dairy products
+597,Jus de pomme,1,Jus de fruits,Drinks
+598,meat-based-products,1,Viandes et charcuteries,"Meat, fish and egg"
+599,Sugared beverages,1,Boissons,Drinks
+600,Sauces soja,1,Sauces,Sauces
+601,Mascarpone,1,Produits laitiers,Dairy products
+602,Cow cheeses,1,Produits laitiers,Dairy products
+603,bebida con frutas,1,,
+604,Confitures de fraises,1,,
+605, fr:Produits à base de levure de bière,1,,
+606,Fromage frais,1,Produits laitiers,Dairy products
+607,Lasagnes à la bolognaise,1,Plats préparés,Ready meals
+608,Pastas,1,Pâtes alimentaires,
+609, microwave-meals,1,Plats préparés,Ready meals
+610,Aoc-products,1,,
+611,Foies gras de canard,1,Viandes et charcuteries,"Meat, fish and egg"
+612,Biscottes pauvres en sel,1,Pains et céréales,"Grains, beans and legumes"
+613,Sauces tomates pimentees,1,Sauces,Sauces
+614,Biscottes au froment,1,Pains et céréales,"Grains, beans and legumes"
+615,Torsades-semi-completes,1,Pains et céréales,"Grains, beans and legumes"
+616, spring-waters,1,Eau,Drinks
+617,Beurres doux,1,Produits laitiers,Dairy products
+618,Gaufres,1,,
+619,Flakes,1,Pains et céréales,"Grains, beans and legumes"
+620,crêpe,1,,
+621, breakfast-cereals,1,Pains et céréales,"Grains, beans and legumes"
+622,Yaourts à la fraise,1,Produits laitiers,Dairy products
+623,Lardons natures,1,Viandes et charcuteries,"Meat, fish and egg"
+624,Quiches,1,Plats préparés,Ready meals
+625,Tartes salées,1,Plats préparés,Ready meals
+626,Palets bretons,1,Biscuits et gateaux,Confections
+627, rice-puddings,1,Plats préparés,Ready meals
+628,Harengs en conserve,1,"Conserves, Produits de la mer",
+629,Yaourts au soja,1,Aliments et boissons à base de végétaux,Plant based products
+630,fr:produit-lacte,1,Produits laitiers,Dairy products
+631,Fruits à coques décortiquées,1,Fruits à coque,
+632,Boissons lactées au café,1,Boissons,Drinks
+633,Céréales soufflées,1,Pains et céréales,"Grains, beans and legumes"
+634,Feta,1,Produits laitiers,Dairy products
+635,Barres aux fruits,1,,
+636,chocolat au beurre de cacao cru,1,Chocolats,Confections
+637,Crevettes frites,1,"Produits de la mer, Plats préparés",
+638,Champagnes rosés,1,Boissons alcoolisées,Alcoholic beverages
+639,Croûtons,1,Pains et céréales,"Grains, beans and legumes"
+640, fr:fondants-au-chocolat,1,Chocolats,Confections
+641,Jus de pommes pur jus,1,Jus de fruits,Drinks
+642,Pizzas surgelées,1,Plats préparés,Ready meals
+643,nuts,1,Fruits à coque,
+644,Eaux aromatisées,1,Boissons,Drinks
+645,Filets de cabillaud,1,Produits de la mer,"Meat, fish and egg"
+646,Crêpes de froment,1,,
+647,Postres vegetales con cacao,1,,
+648,Grated cheese,1,Produits laitiers,Dairy products
+649,Desserts lactés natures,1,,
+650,Pains au lait,1,Pains et céréales,"Grains, beans and legumes"
+651,Pains au lait aux pépites de chocolat,1,Pains et céréales,"Grains, beans and legumes"
+652, fats,1,,
+653,Bonbons,1,,
+654,Haricots blancs,1,Légumineuses,"Grains, beans and legumes"
+655,Tomates et dérivés,1,Fruits,Fruits
+656,Tartes surgelées (salées),1,"Plats préparés, Surgelés",
+657,de:pflanzliche-lebensmittel-und-getranke,1,Aliments et boissons à base de végétaux,Plant based products
+658,Tahini,1,Pâtes à tartiner,Spreads
+659,Nectars de pêche,1,Jus de fruits,Drinks
+660,Fromages labellisés,1,Produits laitiers,Dairy products
+661, industrial-cheese,1,Produits laitiers,Dairy products
+662,Rooibos,1,Thés et infusions,Tee and infusions
+663,fromage,1,Produits laitiers,Dairy products
+664,Saucen,1,Sauces,Sauces
+665, poultries,1,,
+666,de:Endulzantes,1,,
+667,Vinos,1,Boissons alcoolisées,Alcoholic beverages
+668,Canned cereals,1,Conserves,Canned products
+669,Matières grasses à tartiner,1,Pâtes à tartiner,Spreads
+670,Appetizers,1,,
+671,Maquereaux en conserve,1,"Conserves, Produits de la mer",
+672,Getränke,1,Boissons,Drinks
+673, fr:Riz au lait vanille de Madagascar,1,Plats préparés,Ready meals
+674,Apple compotes,1,Compote de fruits,Baby food
+675,Jus de fruits,1,Jus de fruits,Drinks
+676,Meat analogues,1,Viandes et charcuteries,"Meat, fish and egg"
+677,Pickles d'origine végétale,1,,
+678,Fromages du Nord-Pas-de-Calais,1,Produits laitiers,Dairy products
+679,Sirops traditionnels,1,,
+680,Confitures et marmelades,1,Pâtes à tartiner,Spreads
+681,Passierte Tomaten,1,,
+682,Nudeln,1,,
+683, red-pestos,1,Sauces,Sauces
+684,Boissons végétales de soja nature,1,Aliments et boissons à base de végétaux,Plant based products
+685, fr:cordons-bleus-de-poulet,1,"Viandes et charcuteries, Plats préparés",
+686,Miels de citronnier,1,Miels,Honeys
+687, strawberry-biscuits,1,Biscuits et gateaux,Confections
+688, fermented-milk-products,1,Produits laitiers,Dairy products
+689,Lardons,1,Viandes et charcuteries,"Meat, fish and egg"
+690,Gaspacho,1,Plats préparés,Ready meals
+691,Magrets de canard,1,Viandes et charcuteries,"Meat, fish and egg"
+692,Salty snacks,1,Biscuits et gateaux,Confections
+693,Confitures,1,Pâtes à tartiner,Spreads
+694, durum-wheats,1,Pains et céréales,"Grains, beans and legumes"
+695, Boulangerie,1,Pains et céréales,"Grains, beans and legumes"
+696,Mimolettes-vieilles,1,Produits laitiers,Dairy products
+697,Kartoffelchips,1,Pommes de terre,
+698,Coulis de tomates,1,Sauces,Sauces
+699,Crêpe au chocolat,1,,
+700,Coeurs d'artichauts,1,Légumes,Vegetables
+701,Biscuits and cakes,1,Biscuits et gateaux,Confections
+702, seafood,1,Produits de la mer,"Meat, fish and egg"
+703, mackerels-fillets,1,Produits de la mer,"Meat, fish and egg"
+704,Plats à base de poisson,1,Produits de la mer,"Meat, fish and egg"
+705, fishes,1,Produits de la mer,"Meat, fish and egg"
+706,Chips de manioc à la crevette,1,,
+707,Légumes bio,1,Légumes,Vegetables
+708,Mueslis aux fruits,1,,
+709,Fromages au lait de bufflonne,1,Produits laitiers,Dairy products
+710,Purées de légumes,1,Nourriture pour bébé,Baby food
+711,Parmigiano-Reggiano,1,Produits laitiers,Dairy products
+712,Beurres demi-sel,1,Produits laitiers,Dairy products
+713,Fromage Frais maigre,1,Produits laitiers,Dairy products
+714,Goat cheeses,1,Produits laitiers,Dairy products
+715,Thé à la menthe,1,Thés et infusions,Tee and infusions
+716,Desserts de soja à la vanille,1,Aliments et boissons à base de végétaux,Plant based products
+717,Fromage à pâte dure,1,Produits laitiers,Dairy products
+718, beef-steaks,1,Viandes et charcuteries,"Meat, fish and egg"
+719, meat-based-products,1,Viandes et charcuteries,"Meat, fish and egg"
+720,Huiles d'olive vierges extra,1,Huiles,Oils
+721,Méta-catégorie,1,,
+722,Knacks industrielles,1,,
+723,Pâtes à tartiner au chocolat,1,Pâtes à tartiner,Spreads
+724,Pomme de terre,1,Pommes de terre,
+725,Vins rosés,1,Boissons alcoolisées,Alcoholic beverages
+726, french-cheeses,1,Produits laitiers,Dairy products
+727,Légumineuses en conserve,1,Légumineuses,"Grains, beans and legumes"
+728,fr:Mueslis croustillants,1,,
+729,Légumes préparés,1,Légumes,Vegetables
+730,shelled-nuts,1,Fruits à coque,
+731, pasteurized-cheeses,1,Produits laitiers,Dairy products
+732,Fruits,1,Fruits,Fruits
+733,Saucisses de Strasbourg,1,Viandes et charcuteries,"Meat, fish and egg"
+734,Tofu,1,Aliments et boissons à base de végétaux,Plant based products
+735,Soupes réfrigérées,1,Plats préparés,Ready meals
+736,Früchte,1,Fruits,Fruits
+737,Miels italiens,1,Miels,Honeys
+738, tomato-sauces,1,Sauces,Sauces
+739,Pickled gherkins,1,,
+740,Jus de carotte,1,Jus de fruits,Drinks
+741,Bebidas alcohólicas,1,,
+742,Yaourts brassés nature,1,Produits laitiers,Dairy products
+743, chicken-ham,1,Viandes et charcuteries,"Meat, fish and egg"
+744, cow-cheeses,1,Produits laitiers,Dairy products
+745,Boissons lactées,1,Produits laitiers,Dairy products
+746,Crevettes cuites,1,Produits de la mer,"Meat, fish and egg"
+747, mixed-puffed-cereals,1,Pains et céréales,"Grains, beans and legumes"
+748,Confiseries,1,Biscuits et gateaux,Confections
+749,Käse,1,Produits laitiers,Dairy products
+750,Essige,1,,
+751,fr:nusse,1,Fruits à coque,
+752,Filets de perche,1,Produits de la mer,"Meat, fish and egg"
+753,fr:mandeln,1,Fruits à coque,
+754,Noix décortiquées,1,Fruits à coque,
+755,Bolognese-Soße,1,Sauces,Sauces
+756,Poissons et viandes et oeufs,1,,
+757,Cereal butters,1,Pâtes à tartiner,Spreads
+758, carbonated-waters,1,Eau,Drinks
+759,Sauces tomates au basilic,1,Sauces,Sauces
+760,alcoholic-beverages,1,Boissons alcoolisées,Alcoholic beverages
+761,Cream cheeses,1,Produits laitiers,Dairy products
+762,Pates-seches,1,Pâtes alimentaires,
+763,Breakfast cereals,1,Pains et céréales,"Grains, beans and legumes"
+764, pestos,1,Sauces,Sauces
+765, fr:Blés durs précuits,1,Pains et céréales,"Grains, beans and legumes"
+766,Nudelsoßen,1,Sauces,Sauces
+767,Kokosmilch,1,Aliments et boissons à base de végétaux,Plant based products
+768,nuts-and-their-products,1,Fruits à coque,
+769,Lait partiellement écrémé,1,Produits laitiers,Dairy products
+770, mackerel-fillets-in-mustard-sauce,1,Produits de la mer,"Meat, fish and egg"
+771,Canned Vegetables,1,"Conserves, Légumes",
+772,Saucisses,1,Viandes et charcuteries,"Meat, fish and egg"
+773,Tomatensaucen,1,Sauces,Sauces
+774,Terrines de Saint-Jacques,1,"Produits de la mer, Plats préparés",
+775,Pouding,1,,
+776,Instant noodle soups,1,Plats préparés,Ready meals
+777,Pignons de pin décortiqués,1,Fruits à coque,
+778,Cooked pressed cheeses,1,Produits laitiers,Dairy products
+779,Brote,1,Pains et céréales,"Grains, beans and legumes"
+780,pâtes séche,1,Pâtes alimentaires,
+781,Pays d'Oc,1,,
+782,biscuits,1,Biscuits et gateaux,Confections
+783,Epices,1,Condiments,Condiments
+784,Thons roses,1,Produits de la mer,"Meat, fish and egg"
+785,Weichkäse,1,,
+786,Wild smoked salmons,1,Produits de la mer,"Meat, fish and egg"
+787,Pains-au-lait-au-levain,1,Pains et céréales,"Grains, beans and legumes"
+788,Mimolettes,1,Produits laitiers,Dairy products
+789,Miels crémeux,1,Miels,Honeys
+790,Chocolats noirs à la fleur de sel,1,Chocolats,Confections
+791, meats,1,Viandes et charcuteries,"Meat, fish and egg"
+792,Seitan,1,,
+793,Assaisonnements,1,Condiments,Condiments
+794,goûter,1,,
+795,Miels d'agrumes,1,Miels,Honeys
+796,Lentilles blondes,1,Légumineuses,"Grains, beans and legumes"
+797,Champagne français,1,Boissons alcoolisées,Alcoholic beverages
+798,Matières grasses animales,1,,
+799,Extra-virgin olive oils,1,,
+800, fr:Biscuits-fourres,1,Biscuits et gateaux,Confections
+801, hams,1,Viandes et charcuteries,"Meat, fish and egg"
+802,Truffes en conserve,1,Conserves,Canned products
+803, liqueurs,1,Boissons alcoolisées,Alcoholic beverages
+804,Pâte pour lasagne au épinard,1,Pâtes alimentaires,
+805,Frozen foods,1,Surgelés,Frozen products
+806,Chips and fries,1,Pommes de terre,
+807,Snacks,1,,
+808,Biscuits aux amandes,1,Biscuits et gateaux,Confections
+809,Glaces au chocolat,1,,
+810, Pickles,1,,
+811, Pickled capers,1,,
+812,Fromages blancs natures,1,Produits laitiers,Dairy products
+813, Plant-based pickles,1,,
+814,Flocons de céréales,1,Pains et céréales,"Grains, beans and legumes"
+815, fr:Oeufs de truite,1,Produits de la mer,"Meat, fish and egg"
+816,Snackfoods,1,,
+817,Fromages à pâte molle,1,Produits laitiers,Dairy products
+818,Boissons aux légumes,1,Aliments et boissons à base de végétaux,Plant based products
+819,Brioches au chocolat,1,Pains et céréales,"Grains, beans and legumes"
+820,Desserts lactés au chocolat,1,Produits laitiers,Dairy products
+821,Céréales,1,Pains et céréales,"Grains, beans and legumes"
+822,Milchprodukte,1,Produits laitiers,Dairy products
+823,Dinkelmehle Type 1050,1,Pains et céréales,"Grains, beans and legumes"
+824,Babykekse,1,Nourriture pour bébé,Baby food
+825, olive-tree-products,1,,
+826, beef,1,Viandes et charcuteries,"Meat, fish and egg"
+827, canned-foods,1,Conserves,Canned products
+828,Fruits à coques,1,Fruits à coque,
+829,Boissons végétales de soja à la vanille,1,Aliments et boissons à base de végétaux,Plant based products
+830,Gezuckerte Getränke,1,Boissons,Drinks

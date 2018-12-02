@@ -5,7 +5,7 @@
 3;Frais;33;Surgelés
 4;Boissons;31;Boissons
 5;Fromages;28;Produits laitiers
-6;Produits fermentés;19;
+6;Produits fermentés;19;Produits fermentés
 7;Plats préparés;18;Plats préparés
 8;Fromages pasteurisés;17;Produits laitiers
 9;Fromages de vache;16;Produits laitiers
@@ -83,7 +83,7 @@
 81;Sauces tomate;4;Sauces
 82;Biscuits;4;Biscuits et gateaux
 83;Laits UHT;4;Produits laitiers
-84;Fermented foods;4;
+84;Fermented foods;4;Produits fermentés
 85;Filets de poissons;4;Produits de la mer
 86;meats;4;Viandes et charcuteries
 87;Pains;4;Pains et céréales
@@ -93,7 +93,7 @@
 91;Fishes;3;Produits de la mer
 92; beverages;3;Boissons
 93;Ketchup;3;Sauces
-94;Substitut du lait;3;
+94;Substitut du lait;3;Aliments et boissons à base de végétaux
 95;Jus et nectars;3;Boissons
 96;Biscottes;3;Pains et céréales
 97;Boissons gazeuses;3;Boissons
@@ -125,11 +125,11 @@
 123;Desserts lactés;3;Produits laitiers
 124;Vins rouges;3;Boissons alcoolisées
 125;Eaux minérales naturelles;3;Eau
-126;Légumes frais;3;
+126;Légumes frais;3;Légumes
 127;Seafood;3;Produits de la mer
 128;Plats à base de viande bovine;3;Viandes et charcuteries, Plats préparés
 129;Compotes;3;Compote de fruits
-130;Fruits et produits dérivés;3;
+130;Fruits et produits dérivés;3;Fruits
 131;Fromages AOC;3;Produits laitiers
 132;Compotes de pomme;3;Compote de fruits
 133;Poissons en conserve;3;Conserves, Produits de la mer
@@ -139,7 +139,7 @@
 137;Getreide und Kartoffeln;3;Pains et céréales
 138;Poissons surgelés;2;Produits de la mer, Surgelés
 139;Pâtes à tartiner aux noisettes;2;Pâtes à tartiner
-140;dried-meals;2;
+140;dried-meals;2;Produits séchés 
 141;Fromages à pâte pressée demi-cuite;2;Produits laitiers
 142;cereals-and-their-products;2;Pains et céréales
 143;fr:nouilles-orientales;2;Pâtes alimentaires
@@ -179,7 +179,7 @@
 177;instant-noodles;2;Pâtes alimentaires
 178;Fromages à pâte molle à croûte fleurie;2;Produits laitiers
 179;Thés verts étuvés;2;Thés et infusions
-180;dried-products-to-be-rehydrated;2;
+180;dried-products-to-be-rehydrated;2;Produits séchés 
 181;Thons;2;Produits de la mer
 182;Pâtes farcies;2;Plats préparés
 183; meals;2;Plats préparés
@@ -207,7 +207,7 @@
 205; cheeses;2;Produits laitiers
 206;Sauces pour pâtes;2;Sauces
 207;Desserts au chocolat;2;
-208;dried-products;2;
+208;dried-products;2;Produits séchés 
 209;Plats à base de volaille;2;Viandes et charcuteries
 210;Yaourts entiers;2;Produits laitiers
 211; desserts;2;
@@ -238,12 +238,12 @@
 236;Thés verts;2;Thés et infusions
 237;Céréales au chocolat;2;Pains et céréales, Chocolats
 238;Eaux minérales gazeuses;2;Eau
-239;Tomates séchées;2;
+239;Tomates séchées;2;Produits séchés 
 240;Œufs;2;Oeufs
 241;Matières grasses végétales;2;Huiles
 242;Pizzas tartes salées et quiches;2;Plats préparés
 243;fr:Bloc de foie gras;2;Viandes et charcuteries
-244;Snacks salés;2;
+244;Snacks salés;2;Biscuits et gateaux
 245;Vins effervescents;2;Boissons alcoolisées
 246;noodles;2;Pâtes alimentaires
 247;Getreide und Getreideprodukte;2;Pains et céréales
@@ -255,15 +255,15 @@
 253;Pickles;1;
 254;waters;1;Eau
 255;Céréales au caramel;1;Pains et céréales
-256;salty-snacks;1;
+256;salty-snacks;1;Biscuits et gateaux
 257; pasta-sauces;1;Sauces
 258;Rösti;1;Pommes de terre, Plats préparés
-259;Fermented drinks;1;
+259;Fermented drinks;1;Produits fermentés
 260; chips-and-fries;1;Pommes de terre
 261;Yellowfin tunas;1;Produits de la mer
 262;Céréales pour petits déjeuners;1;Pains et céréales
-263;Olives vertes dénoyautées;1;
-264; carbonated-mineral-waters;1;
+263;Olives vertes dénoyautées;1;Fruits
+264; carbonated-mineral-waters;1;Eau
 265;Sodas aux fruits;1;Boissons
 266;plats préparés;1;Plats préparés
 267;Cabernet-Syrah;1;
@@ -296,7 +296,7 @@
 294;Thés aromatisés;1;Thés et infusions
 295; fr:lardons;1;Viandes et charcuteries
 296;Jus de betterave;1;Jus de fruits
-297;Tomates séchées à l'huile;1;
+297;Tomates séchées à l'huile;1;Produits séchés 
 298; sauces;1;Sauces
 299; chocolate-biscuits;1;Biscuits et gateaux, Chocolats
 300;Produits à teneur réduite en sel;1;
@@ -320,14 +320,14 @@
 318;microwave-meals;1;Plats préparés
 319;Chocolats noirs extra fin;1;Chocolats
 320;Pop-corn;1;
-321; frozen-ground-steaks;1;
+321; frozen-ground-steaks;1;Viandes et charcuteries
 322;Compotes pommes abricot;1;Compote de fruits
 323;Semi-skimmed milks;1;Produits laitiers
 324;Mint sauces;1;Sauces
 325;Purées;1;Nourriture pour bébé
-326;Olives noires;1;
+326;Olives noires;1;Fruits
 327;Herbal teas;1;Thés et infusions
-328; fr:Câpres;1;
+328; fr:Câpres;1;Fruits
 329;Plats préparés surgelés;1;Plats préparés, Surgelés
 330;Colins;1;Produits de la mer
 331;Jus de fruits 100% pur jus;1;Aliments et boissons à base de végétaux
