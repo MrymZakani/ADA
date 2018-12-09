@@ -1,100 +1,227 @@
 ,origins
 0,France
-1,Italy
-2,
-3,European Union
-4,Germany
+1,Italie
+2,Suisse
+3,Union Européenne
+4,Allemagne
 5,Vietnam
-6,China
-7,Spain
-8,Pacific Ocean
-9,Netherlands
-10,Turkey
-11,Peru
-12,United States
-13,United Kingdom
-14,India
-15,Argentine
-16,Alaska
-17,Mexico
-18,Scotland
-19,Europe
-20,Thailand
-21,South America
-22,Canada
-23,Italyn
-24,Atlantic Ocean
-25,Portugal
-26,Austria
-27,Russia
-28,Océan India
-29,Greece
-30,Africa
-31,Ecuador
-32,Poland
-33,Paraguay
-34,Sri Lanka
-35,Madagascar
-36, de France
-37,Uruguay
-38,Tunisia
-39,Faroe Islands
-40,Czech Republic
-41,Brazil
-42,Asia
-43,England
-44,Romania
-45,Bulgaria
-46,Egypt
-47,Alps
-48,Sweden
-49,European Union et non European Union
-50,Provence-Alps-Côte d'Azur
-51,Tomates d'Italy
-52,Malaysia
-53,Hors European Union
-54,Viande Italynne
-55,Noix de Saint-Jacques (Argopecten purpuratus)
-56,Noix de Saint-Jacques (Zygochlamys patagonica)
-57,Belgium
-58,Finland
-59,Ghana
-60, Germany
-61, Spain
-62, de vache pasteurisé
-63,Italy?
-64,Norway
-65,tomates 100% Italy
-66,Denmark
-67,Ireland
-68,Morocco
-69, et crème pasteurisés origine France
-70,Ukraine
-71,Israel
-72,Atlantic Ocean Nord-Est
-73,Tech
-74,Atlantic Ocean nord-est
-75,Nicht-European Union-Landwirtschaft
-76,South Korea
-77,Hors Germany
-78,Indonesia
-79,European Union/Non European Union
-80,Scandinavia
-81,England (betterave)
-82,India du Sud
-83,European Union-Landwirtschaft
-84,Uganda
-85,fr:Rooibos de Africa du Sud
-86,Germany 
-87,Bulgarian
-88,Atlantic Ocean Nord Ouest
-89,fr: de France
-90,Italya
-91,Noix de Saint-Jacques (Chlamys nobilis)
-92,fr: de Normandie
-93,South Africa
-94, France
-95,Cabillaud : Pacific Ocean
-96,Pakistan
-97,Atlantic Ocean Nord Est
-98,Produit en Italy
+6,Deutschland
+7,Océan Pacifique
+8,Pérou
+9,Pays-Bas
+10,Europe
+11,Espagne
+12,Italien
+13,Argentine
+14,Italy
+15,Alaska
+16,Mexique
+17,Chine
+18,Lait
+19,Indien
+20,Amérique du Sud
+21,Russie
+22,Grèce
+23,Océan Atlantique
+24,Viande de Porc
+25,Thaïlande
+26,China
+27,Royaume-Uni
+28,Türkei
+29,Canada
+30,Turquie
+31,Österreich
+32,Agriculture UE
+33,Portugal
+34,Océan Indien
+35,Afrique
+36,Paraguay
+37,Etats-Unis
+38,Spanien
+39,64110 Jurançon
+40,Fromageries des Chaumes
+41,Bulgarie
+42,Germany
+43,Frankreich
+44,Sri Lanka
+45,Madagascar
+46,Pologne
+47,Océan pacifique
+48,Evian
+49,Asie
+50,france
+51,USA
+52,Uruguay
+53,Union européenne
+54,Pyrénées-Atlantiques
+55,Ecosse
+56,Équateur
+57,Camargue
+58,EU
+59,Aquitaine
+60,United Kingdom
+61,Blé cultivé en France
+62,Inde
+63,Pays de la Loire
+64,Tschechische Republik
+65,Italie?
+66,World
+67,Scandinavie
+68,Schweiz
+69,Angleterre
+70,Autriche
+71,Hongrie
+72,Südafrika
+73,España
+74,FAO N°71
+75,Viande du Portugal
+76,Atlantique
+77,Polen
+78,Atlantique nord-est
+79,Hors CE
+80,Malaisie
+81,Tomates d'Italie
+82,Saint Galmier
+83,Belgien
+84,Roumanie
+85,Vinaigre balsamique de Modène IGP
+86,fr:Rooibos de Afrique du Sud
+87,Source Éléna
+88,Lait de France
+89,Soja
+90,oeufs fermiers de loué
+91,Ouganda
+92,Noix de Saint-Jacques (Argopecten purpuratus)
+93,cantal
+94,Noix de Saint-Jacques (Zygochlamys patagonica)
+95,Hollande
+96,FAO N°87
+97,tomates 100% Italie
+98,Eure-et-Loir
+99,Rumänien
+100, Kanada
+101,Alpes
+102,chine
+103,Gousse de vanille
+104,Mexiko
+105,écosse
+106,Lait de vache pasteurisé
+107,Îles Féroé
+108,Ghana
+109,Source Sainte Cécile
+110,Peru
+111,fr:Cacahuètes d'Argentine
+112,Zona amparada por la D.O. Rueda
+113,United States
+114,Source Clairvic
+115,Hors Allemagne
+116,Brasilien
+117,Cabillaud : Océan Pacifique
+118,Écosse
+119,Indonesien
+120, Kommark
+121,Produit en Italie
+122,Gironde
+123,fromages italiens AOP
+124,Egypte
+125,Origine France
+126,FRANCE
+127,Soja de France
+128,Tchéquie
+129,Riz
+130,Inde du Sud
+131, Castilla y León
+132,Macédoine
+133,Cairanne
+134,Equateur
+135,ilalie
+136,fromage Pecorino Romano AOP
+137,Source Emma
+138,Centre-Val-de-Loire
+139,28200 Châteaudun
+140,Brésil
+141,Thailand
+142,Viande de porc origine UE
+143,Océan Atlantique Nord Est
+144,Ukraine
+145,francia
+146,Porc
+147,Israel
+148,Ile de Man
+149,Chili
+150,Volaille
+151,Agriculture UE/Non UE
+152,Asiago
+153,Angleterre (betterave)
+154,Tunisie
+155,South Korea
+156,Source Cachat Bron
+157,fr:Lait de France
+158,fromage Grana Padano AOP
+159,Hors Union Européenne
+160,Vosges
+161,Deutschland 
+162,oeufs de poules élevées en plein air
+163,Vanille
+164,Münchsteinach
+165,Lait et crème pasteurisés origine France
+166,Baden-Württemberg
+167,UK
+168,Maroc
+169,Pidoux Guex 1515 Villars Suisse
+170,Switzerland
+171,Pyrénées
+172,divers
+173,Irlande
+174, france
+175,UE
+176,CE
+177,Océan Atlantique Nord-Est
+178,Piémont
+179,Importation
+180,Noix de Saint-Jacques (Chlamys nobilis)
+181,Chambon-la-Forêt
+182, España
+183,Source Ofélia
+184,Schweden
+185,Source Éléonore
+186,EU-Landwirtschaft
+187,Bordelais
+188,EU et non EU
+189,Fleur de sel
+190,Merlu blanc
+191,fr:Lait de Normandie
+192,italie
+193,Californie
+194,Danemark
+195,Valais
+196,Imported Unknown
+197,FAO N°81
+198,Piemont
+199,England
+200,Iles Féroé
+201, Deutschland
+202,suisse
+203,Toscane
+204,Sicile
+205,Viande italienne
+206,Maine-et-Loire
+207,Viande d'Europe
+208,Norvège
+209,Tunesien
+210,FAO N°77
+211,Source Hépar
+212,Colin d'Alaska
+213,Océan Atlantique Nord Ouest
+214,Blé origine France
+215,Bulgarien
+216,Scotland
+217,Pakistan
+218,Nicht-EU-Landwirtschaft
+219,Ägypten
+220,Bresse
+221, rumilly
+222,Vaucluse
+223,Provence-Alpes-Côte d'Azur
+224,Niederlande
+225,allemagne
