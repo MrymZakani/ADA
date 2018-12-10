@@ -1,8 +1,18 @@
 {
   "axes": [
     {
+      "properties": {
+        "labels": {
+          "align": {
+            "value": "left"
+          },
+          "angle": {
+            "value": 45
+          }
+        }
+      },
       "scale": "x",
-      "title": "Products",
+      "title": "",
       "type": "x"
     },
     {
