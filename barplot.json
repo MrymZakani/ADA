@@ -1,0 +1,237 @@
+{
+  "axes": [
+    {
+      "properties": {
+        "labels": {
+          "align": {
+            "value": "left"
+          },
+          "angle": {
+            "value": 45
+          }
+        }
+      },
+      "scale": "x",
+      "title": "",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Quantity",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": "Alcoholic beverages",
+          "val": 49
+        },
+        {
+          "col": "data",
+          "idx": "Baby food",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Canned products",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Condiments",
+          "val": 7
+        },
+        {
+          "col": "data",
+          "idx": "Confections",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Dairy products",
+          "val": 337
+        },
+        {
+          "col": "data",
+          "idx": "Dried fruits and nuts",
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": "Drinks",
+          "val": 134
+        },
+        {
+          "col": "data",
+          "idx": "Fermented products",
+          "val": 19
+        },
+        {
+          "col": "data",
+          "idx": "Frozen products",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fruits",
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": "Grains, beans and legumes",
+          "val": 135
+        },
+        {
+          "col": "data",
+          "idx": "Honeys",
+          "val": 10
+        },
+        {
+          "col": "data",
+          "idx": "Meat, fish and egg",
+          "val": 163
+        },
+        {
+          "col": "data",
+          "idx": "Oils",
+          "val": 14
+        },
+        {
+          "col": "data",
+          "idx": "Plant based products",
+          "val": 194
+        },
+        {
+          "col": "data",
+          "idx": "Ready meals",
+          "val": 101
+        },
+        {
+          "col": "data",
+          "idx": "Sauces",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Spreads",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Tee and infusions",
+          "val": 20
+        },
+        {
+          "col": "data",
+          "idx": "Vegetables",
+          "val": 6
+        }
+      ]
+    },
+    {
+      "name": "stats",
+      "source": "table",
+      "transform": [
+        {
+          "keys": [
+            "data.idx"
+          ],
+          "type": "facet"
+        },
+        {
+          "type": "stats",
+          "value": "data.val"
+        }
+      ]
+    }
+  ],
+  "height": 150,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          },
+          {
+            "height": "data.val",
+            "point": "data.idx",
+            "type": "stack"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "fill": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "width": {
+                "band": true,
+                "offset": -1,
+                "scale": "x"
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "y",
+                "scale": "y"
+              },
+              "y2": {
+                "field": "y2",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "rect"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "ordinal",
+      "zero": false
+    },
+    {
+      "domain": {
+        "data": "stats",
+        "field": "sum"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 300
+}
