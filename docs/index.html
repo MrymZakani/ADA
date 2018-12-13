@@ -61,9 +61,29 @@ title: {{ site.name }}
     <p>The swiss Federal Customs Administration (AFD), depertament of the swiss confederation, proposes free open data on the swiss
         import of varied products. Among others, the quantity of products from agriculture, forestry and fishing imported every year since
         1988 is available.<br><br>
-        <div class="container">
-            <iframe height="500px" width="100%" src="img/plots/evolution_import.html" name="iframe_a" frameBorder="0"></iframe>
-            <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal Customs Administration</a></div>
+        <div uk-filter=".js-filter">
+
+                <ul>
+                    <li uk-filter-control=".tag-import"><a href="#"></a></li>
+                    <li uk-filter-control=".tag-pop"><a href="#"></a></li>
+                </ul>
+            
+                <ul class="js-filter">
+                    <li class="tag-import">
+                        <div class="container">
+                            <iframe height="500px" width="100%" src="img/plots/evolution_import.html" name="iframe_a" frameBorder="0"></iframe>
+                            <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal Customs Administration</a></div>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="js-filter">
+                        <li class="tag-pop">
+                            <div class="container">
+                                <iframe height="500px" width="100%" src="img/plots/evolution_pop.html" name="iframe_a" frameBorder="0"></iframe>
+                                <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal Customs Administration</a></div>
+                            </div>
+                        </li>
+                    </ul>
         </div>
     </p>
 </div>
