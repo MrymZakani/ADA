@@ -4,16 +4,19 @@
       "category_name": "Category1",
       "countries": [
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197571.svg",
-          "name": "Germany"
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "20%"
         },
         {
           "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-          "name": "Canada"
+          "name": "Canada",
+          "amount": "20%"
         },
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197430.svg",
-          "name": "Spain"
+          "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
+          "name": "Spain",
+          "amount": "20%"
         }
       ]
     },
@@ -21,16 +24,19 @@
       "category_name": "Category2",
       "countries": [
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197571.svg",
-          "name": "Germany"
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "20%"
         },
         {
           "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-          "name": "Canada"
+          "name": "Canada",
+          "amount": "20%"
         },
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197430.svg",
-          "name": "Spain"
+          "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
+          "name": "Spain",
+          "amount": "20%"
         }
       ]
     },
@@ -38,16 +44,19 @@
       "category_name": "Category3",
       "countries": [
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197571.svg",
-          "name": "Germany"
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "20%"
         },
         {
           "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-          "name": "Canada"
+          "name": "Canada",
+          "amount": "20%"
         },
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197430.svg",
-          "name": "Spain"
+          "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
+          "name": "Spain",
+          "amount": "20%"
         }
       ]
     },
@@ -55,16 +64,19 @@
       "category_name": "Category4",
       "countries": [
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197571.svg",
-          "name": "Germany"
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "20%"
         },
         {
           "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-          "name": "Canada"
+          "name": "Canada",
+          "amount": "20%"
         },
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197430.svg",
-          "name": "Spain"
+          "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
+          "name": "Spain",
+          "amount": "20%"
         }
       ]
     },
@@ -72,16 +84,19 @@
       "category_name": "Category5",
       "countries": [
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197571.svg",
-          "name": "Germany"
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "20%"
         },
         {
           "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-          "name": "Canada"
+          "name": "Canada",
+          "amount": "20%"
         },
         {
-          "icon": "https: //image.flaticon.com/icons/svg/197/197430.svg",
-          "name": "Spain"
+          "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
+          "name": "Spain",
+          "amount": "20%"
         }
       ]
     }
