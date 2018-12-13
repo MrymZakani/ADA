@@ -2,6 +2,7 @@
 title:        Are we consuming more local?
 tagline:      Is Switzerland consuming more local products or importing the majoriy of the food goods the country consumes?
 baseurl:      "https://mrymzakani.github.io/ADA-project"
+
 paginate:     1
 locale:       "en"
 
