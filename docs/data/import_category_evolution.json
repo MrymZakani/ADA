@@ -1,0 +1,158 @@
+{
+  "categories": [
+    {
+      "category_name": "Category1",
+      "years": [
+        {
+          "year": 2012,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "consumption": 90,
+          "importers": [
+            {
+              "amount": 10,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Category2",
+      "years": [
+        {
+          "year": 2012,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "consumption": 90,
+          "importers": [
+            {
+              "amount": 10,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20,
+              "name": "Germany"
+            },
+            {
+              "amount": 30,
+              "name": "Canada"
+            },
+            {
+              "amount": 10,
+              "name": "Spain"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
