@@ -1,22 +1,307 @@
 {
   "categories": [
     {
-      "category_name": "Category1",
+      "category_name": "Meat",
       "years": [
         {
           "year": 2012,
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
+              "amount": 20143,
               "name": "Germany"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 1563,
+              "name": "France"
             },
             {
-              "amount": 10,
+              "amount": 2923,
+              "name": "Ireland"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "consumption": 90,
+          "importers": [
+            {
+              "amount": 27981,
+              "name": "Germany"
+            },
+            {
+              "amount": 2920,
+              "name": "Ireland"
+            },
+            {
+              "amount": 2403,
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 27397,
+              "name": "Germany"
+            },
+            {
+              "amount": 2394,
+              "name": "Ireland"
+            },
+            {
+              "amount": 3236,
+              "name": "Australia"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20346,
+              "name": "Germany"
+            },
+            {
+              "amount": 4142,
+              "name": "Netherlands"
+            },
+            {
+              "amount": 3569,
+              "name": "Australia"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 15498,
+              "name": "Germany"
+            },
+            {
+              "amount": 7060,
+              "name": "Netherlands"
+            },
+            {
+              "amount": 3983,
+              "name": "Austria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Dairy Products",
+      "years": [
+        {
+          "year": 2012,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 10887,
+              "name": "Germany"
+            },
+            {
+              "amount": 13779,
+              "name": "France"
+            },
+            {
+              "amount": 19156,
+              "name": "Italy"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "consumption": 90,
+          "importers": [
+            {
+              "amount": 12227,
+              "name": "Germany"
+            },
+            {
+              "amount": 13346,
+              "name": "France"
+            },
+            {
+              "amount": 19674,
+              "name": "Italy"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 13190,
+              "name": "Germany"
+            },
+            {
+              "amount": 13431,
+              "name": "France"
+            },
+            {
+              "amount": 20253,
+              "name": "Italy"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 19863,
+              "name": "Italy"
+            },
+            {
+              "amount": 14125,
+              "name": "France"
+            },
+            {
+              "amount": 12820,
+              "name": "Germany"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 20477,
+              "name": "Italy"
+            },
+            {
+              "amount": 14320,
+              "name": "France"
+            },
+            {
+              "amount": 14071,
+              "name": "Germany"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Cereals",
+      "years": [
+        {
+          "year": 2012,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 159503,
+              "name": "Germany"
+            },
+            {
+              "amount": 97420,
+              "name": "France"
+            },
+            {
+              "amount": 77538,
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "year": 2013,
+          "consumption": 90,
+          "importers": [
+            {
+              "amount": 167312,
+              "name": "Germany"
+            },
+            {
+              "amount": 149642,
+              "name": "France"
+            },
+            {
+              "amount": 63315,
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 184020,
+              "name": "Germany"
+            },
+            {
+              "amount": 104750,
+              "name": "France"
+            },
+            {
+              "amount": 76562,
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 123134,
+              "name": "Germany"
+            },
+            {
+              "amount": 117040,
+              "name": "France"
+            },
+            {
+              "amount": 60260,
+              "name": "Canada"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 127873,
+              "name": "Germany"
+            },
+            {
+              "amount": 191389,
+              "name": "France"
+            },
+            {
+              "amount": 67256,
+              "name": "Canada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Vegetables",
+      "years": [
+        {
+          "year": 2012,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 11241,
+              "name": "France"
+            },
+            {
+              "amount": 32855,
+              "name": "Italy"
+            },
+            {
+              "amount": 34576,
               "name": "Spain"
             }
           ]
@@ -26,15 +311,15 @@
           "consumption": 90,
           "importers": [
             {
-              "amount": 10,
-              "name": "Germany"
+              "amount": 20172,
+              "name": "Netherlands"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 50715,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 102273,
               "name": "Spain"
             }
           ]
@@ -44,15 +329,15 @@
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
-              "name": "Germany"
+              "amount": 18119,
+              "name": "Netherlands"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 47678,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 106069,
               "name": "Spain"
             }
           ]
@@ -62,15 +347,33 @@
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
-              "name": "Germany"
+              "amount": 23316,
+              "name": "Netherlands"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 47945,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 108858,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 52096,
+              "name": "Netherlands"
+            },
+            {
+              "amount": 49719,
+              "name": "Italy"
+            },
+            {
+              "amount": 114131,
               "name": "Spain"
             }
           ]
@@ -78,22 +381,22 @@
       ]
     },
     {
-      "category_name": "Category2",
+      "category_name": "Fruits",
       "years": [
         {
           "year": 2012,
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
-              "name": "Germany"
+              "amount": 11241,
+              "name": "France"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 32855,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 34576,
               "name": "Spain"
             }
           ]
@@ -103,15 +406,15 @@
           "consumption": 90,
           "importers": [
             {
-              "amount": 10,
-              "name": "Germany"
+              "amount": 11134,
+              "name": "France"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 34610,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 36614,
               "name": "Spain"
             }
           ]
@@ -121,15 +424,15 @@
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
-              "name": "Germany"
+              "amount": 11050,
+              "name": "France"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 30135,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 29338,
               "name": "Spain"
             }
           ]
@@ -139,15 +442,33 @@
           "consumption": 80,
           "importers": [
             {
-              "amount": 20,
-              "name": "Germany"
+              "amount": 11556,
+              "name": "France"
             },
             {
-              "amount": 30,
-              "name": "Canada"
+              "amount": 29004,
+              "name": "Italy"
             },
             {
-              "amount": 10,
+              "amount": 46272,
+              "name": "Spain"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "consumption": 80,
+          "importers": [
+            {
+              "amount": 9616,
+              "name": "France"
+            },
+            {
+              "amount": 32697,
+              "name": "Italy"
+            },
+            {
+              "amount": 47725,
               "name": "Spain"
             }
           ]
