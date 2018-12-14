@@ -132,6 +132,8 @@ title: {{ site.name }}
     <ul uk-tab>
         <li><a href="#">Imports (1988-2018)</a></li>
         <li><a href="#">Population</a></li>
+        <li><a href="#">Monthly Imports</a></li>
+        <li><a href="#">Monthly Imports (analysis)</a></li>
     </ul>
     <ul class="uk-switcher uk-margin">
         <li>
@@ -155,6 +157,26 @@ title: {{ site.name }}
                 </div>
             </table>
         </li>
+        <li>
+                <table class="uk-table uk-table-middle" style="border: none !important;">
+                    <div class="container">
+                        <iframe height="500px" width="100%" src="img/plots/evolution_month_import_foodstuffs.html" name="iframe_a"
+                                frameBorder="0"></iframe>
+                        <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+                            Customs Administration</a></div>
+                    </div>
+                </table>
+            </li>
+            <li>
+                    <table class="uk-table uk-table-middle" style="border: none !important;">
+                        <div class="container">
+                            <iframe height="500px" width="100%" src="img/plots/analysis_month_import.html" name="iframe_a"
+                                    frameBorder="0"></iframe>
+                            <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+                                Customs Administration</a></div>
+                        </div>
+                    </table>
+                </li>
     </ul>
     </p>
 </div>
