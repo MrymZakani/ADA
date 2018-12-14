@@ -5,113 +5,211 @@ title: {{ site.name }}
 
 <div id="home">
     <h1>A brief introduction</h1>
-    <p>At an era where more and more ecological questions have risen, it seems that European countries, such as Switzerland, 
-      are trying to encourage the sale of their national products within their own territory and reduce the importation of alimentary goods. 
-      Indeed, one can easily notice that swiss supermarkets are promoting regional products, with labels such as “Aus der Region” in order 
-      to answer a growing request from customers to buy local products. </br>
-      <img class="img_intro" src="img/intro_ausderegion.jpg" alt="Migros aus der Region label">
-      <img class="img_intro" src="img/intro_maregion.png" alt="Coop mini region label">
-      <img class="img_intro" src="img/intro_suissegarantie.jpg" alt="Suisse garantie label">
-    </br>
-      However, are these few changes a simple superficial trend, or do we really import fewer goods? The research conducted for the lecture 
-      Applied Data Analysis at the EPFL intends to determine the origin of most products we consume within Switzerland and in general, 
-      to give an overview of the income of resources from other countries to Switzerland, taking into account information as the origin 
-      of the ingredients and the place of manufacture.</br> 
-      The research was conducted with the help of the database <a href="https://world.openfoodfacts.org/data">Open Food Facts</a>, 
-      which provides origin information about products that are consumed in different countries around the world.
+
+    <p>At an era where more and more ecological questions have risen, it seems that European countries, such as
+        Switzerland,
+        are trying to encourage the sale of their national products within their own territory and reduce the
+        importation of alimentary goods.
+        Indeed, one can easily notice that swiss supermarkets are promoting regional products, with labels such as “Aus
+        der Region” in order
+        to answer a growing request from customers to buy local products. </br>
+        <img class="img_intro" src="img/intro_ausderegion.jpg" alt="Migros aus der Region label">
+        <img class="img_intro" src="img/intro_maregion.png" alt="Coop mini region label">
+        <img class="img_intro" src="img/intro_suissegarantie.jpg" alt="Suisse garantie label">
+        </br>
+        However, are these few changes a simple superficial trend, or do we really import fewer goods? The research
+        conducted for the lecture
+        Applied Data Analysis at the EPFL intends to determine the origin of most products we consume within Switzerland
+        and in general,
+        to give an overview of the income of resources from other countries to Switzerland, taking into account
+        information as the origin
+        of the ingredients and the place of manufacture.</br>
+        The research was conducted with the help of the database <a href="https://world.openfoodfacts.org/data">Open
+            Food Facts</a>,
+        which provides origin information about products that are consumed in different countries around the world.
     </p>
 </div>
 <div class="article">
-  <h1>What kind of products do we consume in Europe?</h1>
-  <p>As part of our study, it is interesting to first understand the general situation in terms of food habits of the population. 
-      What kind of products do we most consume? As we will see later, the answers can have an important impact, as processed food is not
-      always manufactured within the country it is sold, and the origin of some products has to be foreign, as not all vegetables and fruits can
-      grow under our latitudes. However, as Switzerland is a small country and requires the ressources from other countries
-      in order to feed its population, it is non negligible to study the behaviour of our neighboors, before focusing on our country.<br><br>
-      --As we can see on the map, there is....
-  </p>
-  <p>List the categories of products in Europe</p>
-  <h1>What about Switzerland?</h1>
-  <p>As we can see from our data set, there is an important amount of dairy products that are available in our swiss supermarkets (almost 350 products out of the x products 
-      present in the database), which are followed by plant based products and the category of meat, fish and eggs. If we compare these results with
-      the official report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques et évaluations
-      concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans, it seems that the total amount in kg of consumption
-      of plant based products per inhabitant is actually greater than dairy products.
+    <h1>What kind of products do we consume in Europe?</h1>
+
+    <p>As part of our study, it is interesting to first understand the general situation in terms of food habits of the
+        population.
+        What kind of products do we most consume? As we will see later, the answers can have an important impact, as
+        processed food is not
+        always manufactured within the country it is sold, and the origin of some products has to be foreign, as not all
+        vegetables and fruits can
+        grow under our latitudes. However, as Switzerland is a small country and requires the ressources from other
+        countries
+        in order to feed its population, it is non negligible to study the behaviour of our neighboors, before focusing
+        on our country.<br><br>
+        --As we can see on the map, there is....
     </p>
 
-  <iframe height="500px" width="100%" src="img/maps/swiss_map.html" name="iframe_a" frameBorder="0"></iframe>
-  <p>Categories of products consumed in Switzerland</p>
-  <img class="" src="img/plots/swiss_plot.png" alt="">
+    <p>List the categories of products in Europe</p>
+
+    <h1>What about Switzerland?</h1>
+
+    <p>As we can see from our data set, there is an important amount of dairy products that are available in our swiss
+        supermarkets (almost 350 products out of the x products
+        present in the database), which are followed by plant based products and the category of meat, fish and eggs. If
+        we compare these results with
+        the official report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques
+            et évaluations
+            concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans, it seems that the
+        total amount in kg of consumption
+        of plant based products per inhabitant is actually greater than dairy products.
+    </p>
+
+    <iframe height="500px" width="100%" src="img/maps/swiss_map.html" name="iframe_a" frameBorder="0"></iframe>
+    <p>Categories of products consumed in Switzerland</p>
+    <img class="" src="img/plots/swiss_plot.png" alt="">
 </div>
 <div class="article">
     <h1>Where do these products come from?</h1>
+
     <h2>From a european point of view</h2>
+
     <h2>From a swiss point of view</h2>
-    <p>Switzerland greatly depends on other countries in order to feed its population. Because of the repartition of the mountains,
+
+    <p>Switzerland greatly depends on other countries in order to feed its population. Because of the repartition of the
+        mountains,
         the size of arable land is not big enough in order to produce and fulfill the needs of the entire population.
-        The report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques et évaluations
-        concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans shows that, from 2010 to 2015, the indigenous 
-        production covered on average 60,83% of the consumption of foodstuffs. It means that at least 39,17% of the products we consumed in
-        Switzerland in-between 2010 and 2015 were imported goods. --This is shown/ or not shown by the results provided by our dataset...
+        The report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques
+            et évaluations
+            concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans shows that, from
+        2010 to 2015, the indigenous
+        production covered on average 60,83% of the consumption of foodstuffs. It means that at least 39,17% of the
+        products we consumed in
+        Switzerland in-between 2010 and 2015 were imported goods. --This is shown/ or not shown by the results provided
+        by our dataset...
     </p>
-    <h3>Which categories of products are the most imported?</h3> 
+
+    <h3>Which categories of products are the most imported?</h3>
 </div>
+
+<div class="article">
+    <h1>Main product types(From importer point of view!)</h1>
+
+    <p>...
+    </p>
+
+    <ul uk-tab>
+        <li><a href="#">Switzerland</a></li>
+        <li><a href="#">Europe</a></li>
+    </ul>
+
+    <ul class="uk-switcher uk-margin">
+        <li>
+            <table class="uk-table uk-table-middle" id="swiss-importer-flags" style="border: none !important;">
+                <caption>The most important importers in Switzerland</caption>
+            </table>
+        </li>
+        <li>
+            <table class="uk-table uk-table-middle" id="europe-importer-flags" style="border: none !important;">
+                <caption>The most important importers in Europe</caption>
+            </table>
+        </li>
+    </ul>
+</div>
+
+<div class="article">
+    <h1>Evolution of consuming more local in Switzerland</h1>
+
+    <p>...
+    </p>
+
+    <canvas id="myChart" width="50%"></canvas>
+</div>
+
 <div class="article">
     <h1>Is there an evolution of importation of goods in time?</h1>
-    <p>The swiss Federal Customs Administration (AFD), depertament of the swiss confederation, proposes free open data on the swiss
-        import of varied products. Among others, the quantity of products from agriculture, forestry and fishing imported every year since
+
+    <p>The swiss Federal Customs Administration (AFD), depertament of the swiss confederation, proposes free open data
+        on the swiss
+        import of varied products. Among others, the quantity of products from agriculture, forestry and fishing
+        imported every year since
         1988 is available.<br><br>
-        <ul uk-tab>
-                <li><a href="#">Imports</a></li>
-                <li><a href="#">Population</a></li>
-        </ul>
-        <ul class="uk-switcher uk-margin">
-            <li>
-                <table class="uk-table uk-table-middle" style="border: none !important;">
-                        <div class="container">
-                                <iframe height="500px" width="100%" src="img/plots/evolution_import.html" name="iframe_a" frameBorder="0"></iframe>
-                                <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal Customs Administration</a></div>
-                        </div>
-                </table>
-            </li>
-            <li>
-                <table class="uk-table uk-table-middle" style="border: none !important;">
-                        <div class="container">
-                                <iframe height="500px" width="100%" src="img/plots/evolution_pop.html" name="iframe_a" frameBorder="0"></iframe>
-                                <div class="overlay">Demography data of the swiss <a href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/tableaux.assetdetail.5866887.html">Federal Statistics Bureau (OFS)</a></div>
-                        </div>
-                </table>
-            </li>
-        </ul>
+    <ul uk-tab>
+        <li><a href="#">Imports</a></li>
+        <li><a href="#">Population</a></li>
+    </ul>
+    <ul class="uk-switcher uk-margin">
+        <li>
+            <table class="uk-table uk-table-middle" style="border: none !important;">
+                <div class="container">
+                    <iframe height="500px" width="100%" src="img/plots/evolution_import.html" name="iframe_a"
+                            frameBorder="0"></iframe>
+                    <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+                        Customs Administration</a></div>
+                </div>
+            </table>
+        </li>
+        <li>
+            <table class="uk-table uk-table-middle" style="border: none !important;">
+                <div class="container">
+                    <iframe height="500px" width="100%" src="img/plots/evolution_pop.html" name="iframe_a"
+                            frameBorder="0"></iframe>
+                    <div class="overlay">Demography data of the swiss <a
+                            href="https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/tableaux.assetdetail.5866887.html">Federal
+                        Statistics Bureau (OFS)</a></div>
+                </div>
+            </table>
+        </li>
+    </ul>
     </p>
 </div>
 <div class="article">
     <h1>So... are we consuming local?</h1>
-    <p>Of course we do! Switzerland still provides more food goods than it imports. However, there is a great tendency to import more and more
-        foodstuffs, but this can be explained by various reasons. We have on one hand the fact the swiss population is growing, which means that 
+
+    <p>Of course we do! Switzerland still provides more food goods than it imports. However, there is a great tendency
+        to import more and more
+        foodstuffs, but this can be explained by various reasons. We have on one hand the fact the swiss population is
+        growing, which means that
         there are more and more mouthes to feed and the surface of arable land cannot increase consequently.
     </p>
+
     <h2>Is the dataset really accurate?</h2>
+
     <h2>As a final word</h2>
-    <p>Consumming more localy is a difficult task, as it means to be aware of the real seasons for foods such as vegetables or fruits, 
-        and to restrict our consumption of some products to specific times of the year. Indeed, the consumption of fresh tomatoes, strawberries
-        or apricots in the middle of the winter are bad habits and should not even be considered, as they just do not respect nature. 
-        These choices should be made for obvious ecological reasons, but other challenges are also at the core of this need to consume more locally. 
-        Indeed, the agricultural sector in Switzerland suffers from a decreasing employement rate since 1990, evolving from more than 250'000 
-        employees in the country to a little more than 150'000 in 2016 (<a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">
-        statistics from Union suisse des Paysans, archives from 2016</a>).The agricultural sector could be the first to benefit from a consumption of 
-        local products and such behavior, if generalized to a great amount of the population, could save small farmers and help the swiss economy.<br><br>
-        As a conclusion to this observable trend, it is interesting to acknowledge that beyond the general visible tendency of promoting regional products in our 
-        supermarkets, the question risen by this study is in fact more important and significant that one might think. Indeed, in 2014, the SSN, the Société Suisse de Nutrition
-        (the Swiss Society for Nutrition), created a programm called <a href="http://www.sge-ssn.ch/fr/toi-et-moi/boire-et-manger/equilibre-alimentaire/foodprints/">
-        FOODprints</a>, which encourage people to consume more locally. The group found out that 25% of our environmental nuisances are due to our 
-        bad eating habits which include, among other components, such as our too large consumption of meat, the fact that we tend to buy too many
-        products that are not seasonal or that were imported by plane. Of course, Switzerland have to import products in order to feed its population, 
-        as the land resources are not sufficient for the entire country (<a href="http://www.sge-ssn.ch/media/reportage_4_2010.pdf">as reported from SSN</a>). 
-        But, by consuming products according to their season in our latitude, we can reduce the ecological impact, as they will require shorter 
-        journeys to be imported, and we can also increase our nutritional health, by beeing aware of what we eat and why. 
-        The question of the consumption of local products is thus linked to the complex issues of our health, that greatly depends on our environment, 
-        hence the ecological aspect, and on our bad alimentary habits, and to the importance of developing and promoting local workers, 
-        which is also related to an economic aspect. 
-        </p>
+
+    <p>Consumming more localy is a difficult task, as it means to be aware of the real seasons for foods such as
+        vegetables or fruits,
+        and to restrict our consumption of some products to specific times of the year. Indeed, the consumption of fresh
+        tomatoes, strawberries
+        or apricots in the middle of the winter are bad habits and should not even be considered, as they just do not
+        respect nature.
+        These choices should be made for obvious ecological reasons, but other challenges are also at the core of this
+        need to consume more locally.
+        Indeed, the agricultural sector in Switzerland suffers from a decreasing employement rate since 1990, evolving
+        from more than 250'000
+        employees in the country to a little more than 150'000 in 2016 (<a
+                href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">
+            statistics from Union suisse des Paysans, archives from 2016</a>).The agricultural sector could be the first
+        to benefit from a consumption of
+        local products and such behavior, if generalized to a great amount of the population, could save small farmers
+        and help the swiss economy.<br><br>
+        As a conclusion to this observable trend, it is interesting to acknowledge that beyond the general visible
+        tendency of promoting regional products in our
+        supermarkets, the question risen by this study is in fact more important and significant that one might think.
+        Indeed, in 2014, the SSN, the Société Suisse de Nutrition
+        (the Swiss Society for Nutrition), created a programm called <a
+                href="http://www.sge-ssn.ch/fr/toi-et-moi/boire-et-manger/equilibre-alimentaire/foodprints/">
+            FOODprints</a>, which encourage people to consume more locally. The group found out that 25% of our
+        environmental nuisances are due to our
+        bad eating habits which include, among other components, such as our too large consumption of meat, the fact
+        that we tend to buy too many
+        products that are not seasonal or that were imported by plane. Of course, Switzerland have to import products in
+        order to feed its population,
+        as the land resources are not sufficient for the entire country (<a
+                href="http://www.sge-ssn.ch/media/reportage_4_2010.pdf">as reported from SSN</a>).
+        But, by consuming products according to their season in our latitude, we can reduce the ecological impact, as
+        they will require shorter
+        journeys to be imported, and we can also increase our nutritional health, by beeing aware of what we eat and
+        why.
+        The question of the consumption of local products is thus linked to the complex issues of our health, that
+        greatly depends on our environment,
+        hence the ecological aspect, and on our bad alimentary habits, and to the importance of developing and promoting
+        local workers,
+        which is also related to an economic aspect.
+    </p>
 </div>

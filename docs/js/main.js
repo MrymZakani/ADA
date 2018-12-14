@@ -99,6 +99,9 @@ $(document).ready(function () {
                         beginAtZero: true
                     },
                     stacked: true
+                }],
+                xAxes: [{
+                    stacked: true
                 }]
             }
         }
