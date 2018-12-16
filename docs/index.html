@@ -309,7 +309,7 @@ title: {{ site.name }}
 
 <script>
     $(document).ready(function () {
-        $.getJSON('{{ site.baseurl }}/ADA-project/data/countries_flags.json', function (json) {
+        $.getJSON('{{ site.baseurl }}/data/countries_flags.json', function (json) {
 
             var categories = json.categories;
             for (var i = 0; i < categories.length; i++) {
@@ -330,7 +330,7 @@ title: {{ site.name }}
         });
 
 
-        $.getJSON('{{ site.baseurl }}/ADA-project/data/import_category_evolution.json', function (json) {
+        $.getJSON('{{ site.baseurl }}/data/import_category_evolution.json', function (json) {
 
             var categories = json.categories;
             for (var i = 0; i < categories.length; i++) {
