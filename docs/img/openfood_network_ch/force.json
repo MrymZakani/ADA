@@ -1,1 +1,174 @@
-{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"country": "SZ", "size": 1312, "name": 0, "id": 0}, {"country": "FR", "size": 656, "name": 1, "id": 1}, {"country": "GM", "size": 244, "name": 2, "id": 2}, {"country": "IT", "size": 209, "name": 3, "id": 3}, {"country": "UK", "size": 76, "name": 4, "id": 4}, {"country": "BE", "size": 59, "name": 5, "id": 5}, {"country": "NL", "size": 57, "name": 6, "id": 6}, {"country": "SP", "size": 40, "name": 7, "id": 7}, {"country": "AU", "size": 29, "name": 8, "id": 8}, {"country": "PO", "size": 26, "name": 9, "id": 9}, {"country": "DA", "size": 24, "name": 10, "id": 10}, {"country": "GR", "size": 24, "name": 11, "id": 11}, {"country": "TH", "size": 20, "name": 12, "id": 12}, {"country": "EU", "size": 17, "name": 13, "id": 13}, {"country": "LS", "size": 16, "name": 14, "id": 14}], "links": [{"weight": 1312, "source": 0, "target": 0}, {"weight": 656, "source": 1, "target": 0}, {"weight": 244, "source": 2, "target": 0}, {"weight": 209, "source": 3, "target": 0}, {"weight": 76, "source": 4, "target": 0}, {"weight": 59, "source": 5, "target": 0}, {"weight": 57, "source": 6, "target": 0}, {"weight": 40, "source": 7, "target": 0}, {"weight": 29, "source": 8, "target": 0}, {"weight": 26, "source": 9, "target": 0}, {"weight": 24, "source": 10, "target": 0}, {"weight": 24, "source": 11, "target": 0}, {"weight": 20, "source": 12, "target": 0}, {"weight": 17, "source": 13, "target": 0}, {"weight": 16, "source": 14, "target": 0}]}
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "country": "Switzerland",
+      "size": 1293,
+      "name": 0,
+      "id": 0
+    },
+    {
+      "country": "France",
+      "size": 654,
+      "name": 1,
+      "id": 1
+    },
+    {
+      "country": "Germany",
+      "size": 242,
+      "name": 2,
+      "id": 2
+    },
+    {
+      "country": "Italy",
+      "size": 209,
+      "name": 3,
+      "id": 3
+    },
+    {
+      "country": "United Kingdom",
+      "size": 75,
+      "name": 4,
+      "id": 4
+    },
+    {
+      "country": "Belgium",
+      "size": 59,
+      "name": 5,
+      "id": 5
+    },
+    {
+      "country": "Netherlands",
+      "size": 57,
+      "name": 6,
+      "id": 6
+    },
+    {
+      "country": "Spain",
+      "size": 40,
+      "name": 7,
+      "id": 7
+    },
+    {
+      "country": "Austria",
+      "size": 27,
+      "name": 8,
+      "id": 8
+    },
+    {
+      "country": "Poland",
+      "size": 26,
+      "name": 9,
+      "id": 9
+    },
+    {
+      "country": "Denmark",
+      "size": 23,
+      "name": 10,
+      "id": 10
+    },
+    {
+      "country": "Greece",
+      "size": 24,
+      "name": 11,
+      "id": 11
+    },
+    {
+      "country": "Thailand",
+      "size": 20,
+      "name": 12,
+      "id": 12
+    },
+    {
+      "country": "Europe union",
+      "size": 17,
+      "name": 13,
+      "id": 13
+    },
+    {
+      "country": "Liechtenstein",
+      "size": 16,
+      "name": 14,
+      "id": 14
+    }
+  ],
+  "links": [
+    {
+      "weight": 1312,
+      "source": 0,
+      "target": 0
+    },
+    {
+      "weight": 656,
+      "source": 1,
+      "target": 0
+    },
+    {
+      "weight": 244,
+      "source": 2,
+      "target": 0
+    },
+    {
+      "weight": 209,
+      "source": 3,
+      "target": 0
+    },
+    {
+      "weight": 76,
+      "source": 4,
+      "target": 0
+    },
+    {
+      "weight": 59,
+      "source": 5,
+      "target": 0
+    },
+    {
+      "weight": 57,
+      "source": 6,
+      "target": 0
+    },
+    {
+      "weight": 40,
+      "source": 7,
+      "target": 0
+    },
+    {
+      "weight": 29,
+      "source": 8,
+      "target": 0
+    },
+    {
+      "weight": 26,
+      "source": 9,
+      "target": 0
+    },
+    {
+      "weight": 24,
+      "source": 10,
+      "target": 0
+    },
+    {
+      "weight": 24,
+      "source": 11,
+      "target": 0
+    },
+    {
+      "weight": 20,
+      "source": 12,
+      "target": 0
+    },
+    {
+      "weight": 17,
+      "source": 13,
+      "target": 0
+    },
+    {
+      "weight": 16,
+      "source": 14,
+      "target": 0
+    }
+  ]
+}
