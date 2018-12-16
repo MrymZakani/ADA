@@ -30,7 +30,7 @@ title: {{ site.name }}
     </p>
 </div>
 <div class="article">
-    <h1>What kind of products do we most consume in the European Union?</h1>
+    <h2>What kind of products do we most consume in the European Union?</h2>
 
     <p>As part of our study, it is interesting to first understand the general situation in terms of food habits of the
         population.
@@ -45,57 +45,48 @@ title: {{ site.name }}
         --As we can see on the map, there is....
     </p>
 
-    <p>List the categories of products in European Union</p>
-
-    <h1>What about Switzerland?</h1>
-
-    <p>As we can see from our data set, there is an important amount of dairy products that are available in our swiss
-        supermarkets (almost 350 products out of the x products
-        present in the database), which are followed by plant based products and the category of meat, fish and eggs. If
-        we compare these results with
-        the official report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques
-            et évaluations
-            concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans, it seems that the
-        total amount in kg of consumption
-        of plant based products per inhabitant is actually greater than dairy products.
-    </p>
-
-    <iframe height="500px" width="100%" src="img/maps/swiss_map.html" name="iframe_a" frameBorder="0"></iframe>
-    <p>Categories of products consumed in Switzerland</p>
-    <img class="" src="img/plots/swiss_plot.png" alt="">
 </div>
 <div class="article">
-    <h1>Where do these products come from?</h1>
+    <h2>Where do these products come from?</h2>
 
-    <h2>From a european point of view</h2>
+    <ul uk-tab>
+        <li><a href="#">Europe</a></li>
+        <li><a href="#">Switzerland</a></li>
+    </ul>
 
-    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a" frameBorder="0"></iframe>
+    <ul class="uk-switcher uk-margin">
+        <li>
+            <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a"
+                    frameBorder="0"></iframe>
+        </li>
+        <li>
+            <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a"
+                    frameBorder="0"></iframe>
+            <p>Switzerland greatly depends on other countries in order to feed its population. Because of the
+                repartition of
+                the
+                mountains,
+                the size of arable land is not big enough in order to produce and fulfill the needs of the entire
+                population.
+                The report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques
+                    et évaluations
+                    concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans shows that,
+                from
+                2010 to 2015, the indigenous
+                production covered on average 60,83% of the consumption of foodstuffs. It means that at least 39,17% of
+                the
+                products we consumed in
+                Switzerland in-between 2010 and 2015 were imported goods. --This is shown/ or not shown by the results
+                provided
+                by our dataset...
+            </p>
+        </li>
+    </ul>
 
-    <h2>From a swiss point of view</h2>
-
-    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a" frameBorder="0"></iframe>
-
-    <p>Switzerland greatly depends on other countries in order to feed its population. Because of the repartition of the
-        mountains,
-        the size of arable land is not big enough in order to produce and fulfill the needs of the entire population.
-        The report <a href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">"Statistiques
-            et évaluations
-            concernant l'agriculture et l'alimentation"</a> of 2016 of the Union suisse des Paysans shows that, from
-        2010 to 2015, the indigenous
-        production covered on average 60,83% of the consumption of foodstuffs. It means that at least 39,17% of the
-        products we consumed in
-        Switzerland in-between 2010 and 2015 were imported goods. --This is shown/ or not shown by the results provided
-        by our dataset...
-    </p>
-
-    <h3>Which categories of products are the most imported?</h3>
 </div>
 
 <div class="article">
-    <h1>Main product types(From importer point of view!)</h1>
-
-    <p>...
-    </p>
+    <h2>Which countries are the most important manufacturers?</h2>
 
     <ul uk-tab>
         <li><a href="#">Europe</a></li>
@@ -178,7 +169,7 @@ title: {{ site.name }}
 
 
 <div class="article">
-    <h1>Is there an evolution of importation of goods in time?</h1>
+    <h2>Is there an evolution of importation of goods in time?</h2>
 
     <p>The swiss Federal Customs Administration (AFD), departement of the swiss confederation, proposes free open data
         on the swiss import of varied products. Among others, the quantity of products from Food, Beverages and Tobacco
