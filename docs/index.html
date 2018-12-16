@@ -344,11 +344,11 @@ title: {{ site.name }}
                 var chart = new Chart(ctx, {
                     type: 'bar',
                     data: {
-                        labels: [categories[i].years[0].year, categories[i].years[1].year, categories[i].years[2].year, categories[i].years[3].year],
+                        labels: [categories[i].years[0].year, categories[i].years[1].year, categories[i].years[2].year],
                         datasets: [
                             {
                                 label: 'consumption',
-                                data: [categories[i].years[0].consumption, categories[i].years[1].consumption, categories[i].years[2].consumption, categories[i].years[3].consumption],
+                                data: [categories[i].years[0].consumption, categories[i].years[1].consumption, categories[i].years[2].consumption],
                                 backgroundColor: 'rgba(255, 99, 132, 0.2)',
                                 borderColor: 'rgba(255,99,132,1)',
 
@@ -356,10 +356,9 @@ title: {{ site.name }}
                             },
                             {
                                 label: 'Importation',
-                                data: [categories[i].years[0].importers[0].amount + categories[i].years[0].importers[1].amount, categories[i].years[0].importers[2].amount,
-                                    categories[i].years[0].importers[0].amount + categories[i].years[0].importers[1].amount, categories[i].years[0].importers[2].amount,
-                                    categories[i].years[0].importers[0].amount + categories[i].years[0].importers[1].amount, categories[i].years[0].importers[2].amount,
-                                    categories[i].years[0].importers[0].amount + categories[i].years[0].importers[1].amount, categories[i].years[0].importers[2].amount
+                                data: [categories[i].years[0].total_import ,
+                                    categories[i].years[1].total_import ,
+                                   categories[i].years[2].total_import ,
                                 ],
                                 backgroundColor: 'rgba(54, 162, 235, 0.2)',
                                 borderColor: 'rgba(54, 162, 235, 1)',
