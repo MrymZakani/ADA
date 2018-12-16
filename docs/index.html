@@ -26,28 +26,28 @@ title: {{ site.name }}
         of the ingredients and the place of manufacture.</br>
         The research was conducted with the help of the database <a href="https://world.openfoodfacts.org/data">Open
             Food Facts</a>,
-        which provides origin information about products that are consumed in different countries around the world.
+        which provides origin information about products that are sold in different countries around the world.
     </p>
 </div>
 <div class="article">
-    <h2>What kind of products do we most consume in the European Union?</h2>
+    <h2>Where do the products we consume come from?</h2>
 
-    <p>As part of our study, it is interesting to first understand the general situation in terms of food habits of the
-        population.
-        What kind of products do we most consume? As we will see later, the answers can have an important impact, as
-        processed food is not
-        always manufactured within the country it is sold, and the origin of some products has to be foreign, as not all
-        vegetables and fruits can
-        grow under our latitudes. However, as Switzerland is a small country and requires the ressources from other
-        countries
-        in order to feed its population, it is non negligible to study the behaviour of our neighboors, before focusing
-        on our country.<br><br>
-        --As we can see on the map, there is....
-    </p>
+    As part of our study, it is interesting to first understand the general situation in terms of food importation of
+    our country and our neighbors in Europe.
+    Which countries are the most important manufacturers? As we will see later, the answers can have an important
+    impact, as
+    processed food is not
+    always manufactured within the country it is sold, and the origin of some products has to be foreign, as not all
+    vegetables and fruits can
+    grow under our latitudes. However, as Switzerland is a small country and requires the resources from other
+    countries
+    in order to feed its population, it is non negligible to study the behaviour of our neighbors, before focusing
+    on our country.<br><br>
 
-</div>
-<div class="article">
-    <h2>Where do these products come from?</h2>
+    The following maps show the most important manufacturers for the products sold in Europe and Switzerland.
+
+    <br>
+    <br>
 
     <ul uk-tab>
         <li><a href="#">Europe</a></li>
@@ -56,12 +56,54 @@ title: {{ site.name }}
 
     <ul class="uk-switcher uk-margin">
         <li>
+
+            <br>
+            <canvas id='myChart-europe-most-important-manufacturers' width='50%'></canvas>
+
             <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a"
                     frameBorder="0"></iframe>
+
+            <br>
+            <br>
+
+            <p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here
+                we can
+                clearly see
+                that France is the biggest importer, with a total of 45824 products, whereas the rest of the importers
+                are
+                proportionaly pretty equivalent in the
+                number of products they import.</p>
+
+            <div class="container">
+                <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a"
+                        frameBorder="0"></iframe>
+                <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
+                    Facts</a></div>
+            </div>
         </li>
         <li>
+            <canvas id='myChart-swiss-most-important-manufacturers' width='50%'></canvas>
+
             <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a"
                     frameBorder="0"></iframe>
+
+            <br>
+            <br>
+            <br>
+
+            <p>Finally we can see here that most products from our database that are consumed in Switzerland are
+                manufactured in the
+                country itself, even though
+                France remains a big importer of manufactured products</p>
+
+            <div class="container">
+                <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
+                        frameBorder="0"></iframe>
+                <div class="overlay">Main manufacturers for Switzerland from <a
+                        href="https://world.openfoodfacts.org/data">OpenFood
+                    Facts</a></div>
+            </div>
+
             <p>Switzerland greatly depends on other countries in order to feed its population. Because of the
                 repartition of
                 the
@@ -76,9 +118,12 @@ title: {{ site.name }}
                 production covered on average 60,83% of the consumption of foodstuffs. It means that at least 39,17% of
                 the
                 products we consumed in
-                Switzerland in-between 2010 and 2015 were imported goods. --This is shown/ or not shown by the results
+                Switzerland in-between 2010 and 2015 were imported goods.
+
+                This is also shown by the results
                 provided
-                by our dataset...
+                by our dataset that although Switzerland provide the most of products itself but it strongly is
+                dependant to other countries.
             </p>
         </li>
     </ul>
@@ -86,56 +131,43 @@ title: {{ site.name }}
 </div>
 
 <div class="article">
-    <h2>Which countries are the most important manufacturers?</h2>
+    <br>
 
-    <ul uk-tab>
-        <li><a href="#">Europe</a></li>
-        <li><a href="#">Switzerland</a></li>
-    </ul>
-    <ul class="uk-switcher uk-margin">
-        <li>
-            <canvas id='myChart-europe-most-important-manufacturers' width='50%'></canvas>
+    <h2>What kind of products are these countries import?</h2>
 
-            <p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here
-                we can
-                clearly see
-                that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers
-                are
-                proportionaly pretty equivalent in the
-                number of products they import.</p>
+    <p>
+        Now, we take a look at the categories which the products in our dataset belong to.
+        There are about 12K categories for the products which are sold and manufactured inside the Europe.
+        It is interesting to see which countries tend to manufacture which kind of products?
+    </p>
 
-            <div class="container">
-                <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a"
-                        frameBorder="0"></iframe>
-                <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
-                    Facts</a></div>
-            </div>
+    <p>
+        Some of the most abundant types of products in the dataset are plant-based products, dairy products, sugary
+        snacks, meat, cereals and potatoes. For most of these categories, France, Italy, Germany and Switzerland are
+        part of
+        the top manufacturing countries. Germany and France by their
+        part, are recognised as being part of the top global food processors, supported by a developed workforce,
+        progress in food technology and marketing innovation.(<a href="http://www.gtai.de/GTAI/Content/EN/Invest/_SharedDocs/Downloads/GTAI/Industry-overviews/industry-overview-food-beverage-industry-en.pdf
+        https://www.fas.usda.gov/data/france-food-processing-ingredients-0">link</a>)
+    </p>
 
-        </li>
-        <li>
-            <canvas id='myChart-swiss-most-important-manufacturers' width='50%'></canvas>
-
-            <p>Finally we can see here that most products from our database that are consumed in Switzerland are
-                manufactured in the
-                country itself, even though
-                France remains a big importer of manufactured products</p>
-
-            <div class="container">
-                <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
-                        frameBorder="0"></iframe>
-                <div class="overlay">Main manufacturers for Switzerland from <a
-                        href="https://world.openfoodfacts.org/data">OpenFood
-                    Facts</a></div>
-            </div>
-        </li>
-    </ul>
-
+    <p>The following table demonstrate which countries are dominant in the importation of these five categories inside
+        the Europe. This information is obtained from Open Food Fact dataset.
+    </p>
 
     <div style='text-align: center'>
         <table class="uk-table uk-table-middle" id="importer-flags" style="border: none !important; text-align: center">
-            <caption>The most important importers in Europe</caption>
         </table>
+        <br>
     </div>
+
+    <p>
+        Diving in the dataset, in the case of Switzerland, is found that there is a strong presence of products from
+        MIGROS and COOP, enterprises committed to the local production.(<a
+            href="https://report.migros.ch/2009/en/focus-09/switzerland-switzerland/swiss-production.html">link</a>)
+
+        <br>
+    </p>
 </div>
 
 
