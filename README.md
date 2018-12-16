@@ -1,5 +1,8 @@
 # Are we consuming more local?
 
+
+Find the associated data story at: https://mrymzakani.github.io/ADA-project/
+
 # Abstract
 At an era where more and more ecological questions have risen, it seems that European countries, such as Switzerland or France, are trying to encourage the sale of their national products within their own territory and reduce the importation of alimentary goods. Indeed, one can easily notice that swiss supermarkets are promoting regional products, with labels such as “Aus der Region” in order to answer a growing request from customers to buy local products. However, are these few changes a simple superficial trend, or do we really import fewer goods? The research thus intends to determine the origin of most products we consume within Switzerland and in general, to give an overview of the income of resources from other countries to Switzerland, taking into account information as the origin of the ingredients and the place of manufacture. The research will be conducted with the help of the database Open Food Facts https://world.openfoodfacts.org/data, which provides origin information about products that are consumed in different countries around the world.
 
@@ -50,6 +53,6 @@ For milestone 2, we should have the outcome for the first research question, whi
 
 
 # Contributions
-- Maryam: Cleaning "countries" information in dataset. Draw statistics from the importation balances. Narrative of data story. Collaboration in page development. Merging of last version of page.
-- Valentine: Cleaning "categories" information in dataset. Find additional related datasets. Collaboration in page development. Network graphs. Interactive map visualization.
+- Maryam: Cleaning "countries" information in dataset. Draw statistics from the importation balances. Designing the visualizations for data story. Provide content for graphs and map visualization. Collaboration in page development. Merging of last version of page.
+- Valentine: Cleaning "categories" information in dataset. Find additional related datasets. Narrative of data story. Collaboration in page development. Network graphs. Interactive map visualization.
 - Paola: Find additional related datasets. Exploration of time-evolution of local consumption with openfood dataset. Most important categories by country in EU. Final presentation.
