@@ -1,210 +1,159 @@
 {
-  "Switzerland": {
-    "categories": [
-      {
-        "category_name": "Category1",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category2",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category3",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category4",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category5",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          }
-        ]
-      }
-    ]
-  },
-  "Europe": {
-    "categories": [
-      {
-        "category_name": "Category1",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category2",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category3",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category4",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      },
-      {
-        "category_name": "Category5",
-        "countries": [
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
-            "name": "Germany",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
-            "name": "Canada",
-            "amount": "20%"
-          },
-          {
-            "icon": "https://image.flaticon.com/icons/svg/197/197430.svg",
-            "name": "Spain",
-            "amount": "20%"
-          }
-        ]
-      }
-    ]
-  }
+  "categories": [
+    {
+      "category_name": "Plant-based products",
+      "category_icon": "https://image.flaticon.com/icons/svg/31/31714.svg",
+      "countries": [
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197560.svg",
+          "name": "France",
+          "amount": "68%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197626.svg",
+          "name": "Italy",
+          "amount": "10%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
+          "name": "Spain",
+          "amount": "4%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "3%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197583.svg",
+          "name": "Belgium",
+          "amount": "3%"
+        }
+      ]
+    },
+    {
+      "category_name": "Dairy products",
+      "category_icon": "https://image.flaticon.com/icons/svg/135/135286.svg",
+      "countries": [
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197560.svg",
+          "name": "France",
+          "amount": "84%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197626.svg",
+          "name": "Italy",
+          "amount": "44%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197540.svg",
+          "name": "Switzerland",
+          "amount": "38%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197441.svg",
+          "name": "Netherlands",
+          "amount": "1%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "1%"
+        }
+      ]
+    },
+    {
+      "category_name": "Sugary snacks",
+      "category_icon": "https://image.flaticon.com/icons/svg/1280/1280438.svg",
+      "countries": [
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197560.svg",
+          "name": "France",
+          "amount": "65%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197540.svg",
+          "name": "Switzerland",
+          "amount": "8%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197583.svg",
+          "name": "Belgium",
+          "amount": "6%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197374.svg",
+          "name": "United-Kingdom",
+          "amount": "5%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "5%"
+        }
+      ]
+    },
+    {
+      "category_name": "Meat",
+      "category_icon": "https://image.flaticon.com/icons/svg/58/58227.svg",
+      "countries": [
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197560.svg",
+          "name": "France",
+          "amount": "88%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197593.svg",
+          "name": "Spain",
+          "amount": "2%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197626.svg",
+          "name": "Italy",
+          "amount": "2%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "2%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197540.svg",
+          "name": "Switzerland",
+          "amount": "1%"
+        }
+      ]
+    },
+    {
+      "category_name": "Cereals and potatoes",
+      "category_icon": "https://image.flaticon.com/icons/svg/58/58217.svg",
+      "countries": [
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197560.svg",
+          "name": "France",
+          "amount": "58%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197626.svg",
+          "name": "Italy",
+          "amount": "19%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197571.svg",
+          "name": "Germany",
+          "amount": "4%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197540.svg",
+          "name": "Switzerland",
+          "amount": "4%"
+        },
+        {
+          "icon": "https://image.flaticon.com/icons/svg/197/197374.svg",
+          "name": "United-Kingdom",
+          "amount": "3%"
+        }
+      ]
+    }
+  ]
 }

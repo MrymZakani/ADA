@@ -69,11 +69,11 @@ title: {{ site.name }}
 
     <h2>From a european point of view</h2>
 
-        <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a" frameBorder="0"></iframe>
+    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a" frameBorder="0"></iframe>
 
     <h2>From a swiss point of view</h2>
 
-        <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a" frameBorder="0"></iframe>
+    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a" frameBorder="0"></iframe>
 
     <p>Switzerland greatly depends on other countries in order to feed its population. Because of the repartition of the
         mountains,
@@ -97,38 +97,31 @@ title: {{ site.name }}
     <p>...
     </p>
 
-    <ul uk-tab>
-        <li><a href="#">Switzerland</a></li>
-        <li><a href="#">EU</a></li>
-    </ul>
+    <table class="uk-table uk-table-middle" id="importer-flags" style="border: none !important;">
+        <caption>The most important importers in Europe</caption>
+    </table>
 
-    <ul class="uk-switcher uk-margin">
-        <li>
-            <table class="uk-table uk-table-middle" id="swiss-importer-flags" style="border: none !important;">
-                <caption>The most important importers in Switzerland</caption>
-            </table>
-        </li>
-        <li>
-            <table class="uk-table uk-table-middle" id="europe-importer-flags" style="border: none !important;">
-                <caption>The most important importers in Europe</caption>
-            </table>
-        </li>
-    </ul>
 </div>
 
-<p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can clearly see 
-that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers are proportionaly pretty equivalent in the
-number of products they import.</p>
+<p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can
+    clearly see
+    that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers are
+    proportionaly pretty equivalent in the
+    number of products they import.</p>
 <div class="container">
     <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a" frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood Facts</a></div>
-    </div>
-<p>Finally we can see here that most products from our database that are consumed in Switzerland are manufactured in the country itself, even though
-France remains a big importer of manufactured products</p>
+    <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
+        Facts</a></div>
+</div>
+<p>Finally we can see here that most products from our database that are consumed in Switzerland are manufactured in the
+    country itself, even though
+    France remains a big importer of manufactured products</p>
 <div class="container">
-    <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a" frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for Switzerland from <a href="https://world.openfoodfacts.org/data">OpenFood Facts</a></div>
-    </div>    
+    <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
+            frameBorder="0"></iframe>
+    <div class="overlay">Main manufacturers for Switzerland from <a href="https://world.openfoodfacts.org/data">OpenFood
+        Facts</a></div>
+</div>
 
 <div class="article">
     <h1>Evolution of consuming more local in Switzerland</h1>
@@ -146,14 +139,16 @@ France remains a big importer of manufactured products</p>
     <p>The swiss Federal Customs Administration (AFD), departement of the swiss confederation, proposes free open data
         on the swiss import of varied products. Among others, the quantity of products from Food, Beverages and Tobacco
         imported every year since
-        1988 is available. We can see that there is a increase of imported foodstuffs throughout the years. In order to better
-        understand this phenomenon, we determined a strong linear correlation between this increase and the growth of the swiss 
+        1988 is available. We can see that there is a increase of imported foodstuffs throughout the years. In order to
+        better
+        understand this phenomenon, we determined a strong linear correlation between this increase and the growth of
+        the swiss
         demography since 1988.
-        <ul uk-tab>
+    <ul uk-tab>
         <li><a href="#">Imports (1988-2018)</a></li>
         <li><a href="#">Population growth</a></li>
     </ul>
-        <ul class="uk-switcher uk-margin">
+    <ul class="uk-switcher uk-margin">
         <li>
             <table class="uk-table uk-table-middle" style="border: none !important;">
                 <div class="container">
@@ -175,46 +170,55 @@ France remains a big importer of manufactured products</p>
                 </div>
             </table>
         </li>
-        </ul>
-        We also studied the different flows of monthly imports on a shorter period, from 2012 to 2018, and found that
-        there is a tendency to import more products during spring season. This can be due to the fact that Switzerland is not capable
-        of producing the total amount of food consumed in the country (only about 60%) and that spring corresponds to the time of the year
-        when the country's stockpiles are on credit. After a long winter and with the arrival of new seasonal fruits that are not always or already
-        available in Switzerland, spring seems to be the time of the year where foreign ressources are most required.<br><br>
+    </ul>
+    We also studied the different flows of monthly imports on a shorter period, from 2012 to 2018, and found that
+    there is a tendency to import more products during spring season. This can be due to the fact that Switzerland is
+    not capable
+    of producing the total amount of food consumed in the country (only about 60%) and that spring corresponds to the
+    time of the year
+    when the country's stockpiles are on credit. After a long winter and with the arrival of new seasonal fruits that
+    are not always or already
+    available in Switzerland, spring seems to be the time of the year where foreign ressources are most
+    required.<br><br>
     <ul uk-tab>
         <li><a href="#">Monthly Imports</a></li>
         <li><a href="#">Monthly Imports (analysis)</a></li>
     </ul>
     <ul class="uk-switcher uk-margin">
-        
+
         <li>
-                <table class="uk-table uk-table-middle" style="border: none !important;">
-                    <div class="container">
-                        <iframe height="500px" width="100%" src="img/plots/evolution_month_import_foodstuffs.html" name="iframe_a"
-                                frameBorder="0"></iframe>
-                        <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
-                            Customs Administration</a></div>
-                    </div>
-                </table>
-            </li>
-            <li>
-                    <table class="uk-table uk-table-middle" style="border: none !important;">
-                        <div class="container">
-                            <iframe height="500px" width="100%" src="img/plots/analysis_month_import.html" name="iframe_a"
-                                    frameBorder="0"></iframe>
-                            <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
-                                Customs Administration</a></div>
-                        </div>
-                    </table>
-                </li>
+            <table class="uk-table uk-table-middle" style="border: none !important;">
+                <div class="container">
+                    <iframe height="500px" width="100%" src="img/plots/evolution_month_import_foodstuffs.html"
+                            name="iframe_a"
+                            frameBorder="0"></iframe>
+                    <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+                        Customs Administration</a></div>
+                </div>
+            </table>
+        </li>
+        <li>
+            <table class="uk-table uk-table-middle" style="border: none !important;">
+                <div class="container">
+                    <iframe height="500px" width="100%" src="img/plots/analysis_month_import.html" name="iframe_a"
+                            frameBorder="0"></iframe>
+                    <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+                        Customs Administration</a></div>
+                </div>
+            </table>
+        </li>
     </ul>
     </p>
     <h2>The current situation of foodstuffs import</h2>
-    <p>As we can see from the graph network bellow, Italy is our main importer, with an amount of 598673940 kg of foodstuffs imported in 2017. Italy is 
-    followed by France, Germany and Spain.</p>
+
+    <p>As we can see from the graph network bellow, Italy is our main importer, with an amount of 598673940 kg of
+        foodstuffs imported in 2017. Italy is
+        followed by France, Germany and Spain.</p>
+
     <div class="container">
         <iframe height="500px" width="100%" src="img/force/force.html" name="iframe_a" frameBorder="0"></iframe>
-        <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal Customs Administration</a></div>
+        <div class="overlay">Imports data of the swiss <a href="https://www.gate.ezv.admin.ch/swissimpex/">Federal
+            Customs Administration</a></div>
     </div>
 
 </div>
@@ -222,16 +226,22 @@ France remains a big importer of manufactured products</p>
     <h1>So... are we consuming local?</h1>
 
     <p> In a general way, we can say that we do consume more local products than imported ones. Indeed,
-        Switzerland still provides more food goods than it imports, with a mean of approximately 60%. However, we do not 
-        eat more local products everytime of the year. It seems that during the course of spring, or at the end of the winter
+        Switzerland still provides more food goods than it imports, with a mean of approximately 60%. However, we do not
+        eat more local products everytime of the year. It seems that during the course of spring, or at the end of the
+        winter
         Switzerland lacks of indigenous products and needs to import more foreign products.<br>
-        Overall, there is also a great tendency to import more and more foodstuffs, but this can be explained by the fact the swiss 
-        population is growing. This growth of demography means that there are more and more people to feed but 
-        the surface of arable land cannot increase consequently. Future challenges to be considered for the coutry would be to still be 
-        able to produce the majority of products its population consumes in incoming years. Yet, this important question of local
-        ressources also belongs to the bigger problematic of the availability of the earth's ressources, and the fact that we use more 
+        Overall, there is also a great tendency to import more and more foodstuffs, but this can be explained by the
+        fact the swiss
+        population is growing. This growth of demography means that there are more and more people to feed but
+        the surface of arable land cannot increase consequently. Future challenges to be considered for the coutry would
+        be to still be
+        able to produce the majority of products its population consumes in incoming years. Yet, this important question
+        of local
+        ressources also belongs to the bigger problematic of the availability of the earth's ressources, and the fact
+        that we use more
         than what the planet can renew (this year, on 1st August 2018, we had consumed more than what the planet
-        can provide in an entire year according to <a href="https://www.overshootday.org/">Global Foorprint Network</a>), but it is not
+        can provide in an entire year according to <a href="https://www.overshootday.org/">Global Foorprint Network</a>),
+        but it is not
         the focus of this report.
     </p>
 
@@ -251,7 +261,8 @@ France remains a big importer of manufactured products</p>
         from more than 250'000
         employees in the country to a little more than 150'000 in 2016 (<a
                 href="https://www.sbv-usp.ch/fileadmin/sbvuspch/05_Publikationen/SES/SES_2016-93.pdf">
-            statistics from Union suisse des Paysans, archives from 2016</a>). The agricultural sector could be the first
+            statistics from Union suisse des Paysans, archives from 2016</a>). The agricultural sector could be the
+        first
         to benefit from a consumption of
         local products and such behavior, if generalized to a great amount of the population, could save small farmers
         and help the swiss economy.<br><br>
@@ -280,3 +291,119 @@ France remains a big importer of manufactured products</p>
         which is also related to an economic aspect.
     </p>
 </div>
+
+<script>
+    $(document).ready(function () {
+        $.getJSON('{{ site.baseurl }}/ADA-project/data/countries_flags.json', function (json) {
+
+            var categories = json.categories;
+            for (var i = 0; i < categories.length; i++) {
+                var new_row = "";
+                new_row += "<tr><td style='text-align: center'>" +
+                        "<img src=" + categories[i].category_icon + " alt=" + categories[i].category_name + " width='50' height='50' uk-tooltip='" +
+
+                        categories[i].category_name + "'></td>";
+
+                for (var j = 0; j < categories[i].countries.length; j++) {
+                    new_row += "<td style='text-align: center'>" +
+                            "<img src=" + categories[i].countries[j].icon + " alt=" + categories[i].countries[j].name + " width='40' height='40' uk-tooltip='" +
+                            categories[i].countries[j].name + "\n" + categories[i].countries[j].amount + "'>" + "</td>";
+                }
+                new_row += "</tr>";
+                $("#importer-flags").append(new_row);
+            }
+        });
+
+        var ctx = document.getElementById("myChart").getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ["2012", "2013", "2014", "2015"],
+                datasets: [
+                    {
+                        label: '# of Votes',
+                        data: [12, 19, 3, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Number of Votes',
+                        data: [12, 19, 3, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Number of Votes 3',
+                        data: [15, 4, 1, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        },
+                        stacked: true
+                    }],
+                    xAxes: [{
+                        stacked: true
+                    }]
+                }
+            }
+        });
+        chart.data.datasets[0].data[2] = 50;
+        chart.update();
+        removeData(chart);
+
+
+        function addData(chart, label, data) {
+            chart.data.labels.push(label);
+            chart.data.datasets[0].data.push(10);
+            chart.update();
+        }
+
+        function removeData(chart) {
+            chart.data.labels.pop();
+            chart.data.datasets[0].data.pop();
+            chart.update();
+        }
+    })
+    ;
+
+
+</script>
