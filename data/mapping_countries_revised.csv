@@ -1,0 +1,1190 @@
+input,country_code
+france,FR
+canada,CA
+united kingdom,UK
+united states,US
+thailand,TH
+germany,GM
+spain,SP
+netherlands,NL
+belgium,BE
+ireland,EI
+mexico,MX
+vietnam,VM
+china,CH
+switzerland,SZ
+australia,AS
+egypt,EG
+taiwan,TW
+japan,JA
+haiti,HA
+italy,IT
+denmark,DA
+indonesia,ID
+new zealand,NZ
+saudi arabia,SA
+sweden,SW
+luxembourg,LU
+french polynesia,FP
+greece,GR
+israel,IS
+jordan,JO
+hong kong,HK
+reunion,RE
+serbia,RI
+saint kitts and nevis,SC
+new caledonia,NC
+guadeloupe,GP
+united arab emirates,AE
+poland,PL
+kuwait,KU
+philippines,RP
+uruguay,UY
+croatia,HR
+morocco,MO
+peru,PE
+singapore,SN
+argentina,AR
+colombia,CO
+anguilla,AV
+dominican republic,DR
+south africa,SF
+mauritius,MP
+ecuador,EC
+malaysia,MY
+sri lanka,CE
+saint pierre and miquelon,SB
+portugal,PO
+guatemala,GT
+russia,RS
+pa ,EU
+korea,KN
+turkey,TU
+austria,AU
+cambodia,CB
+brazil,BR
+kenya,KE
+india,IN
+ont,MH
+costa rica,CS
+czech republic,EZ
+tunisia,TS
+montserrat,MH
+norway,NO
+martinique,MB
+norfolk,NF
+french guiana,FG
+burkina faso,UV
+algeria,AG
+alva,ES
+oman,MU
+iceland,IC
+isle,IM
+azerbaijan,AJ
+pakistan,PK
+gabon,GB
+latvia,LG
+romania,RO
+cyprus,CY
+puerto rico,RQ
+lebanon,LE
+cameroon,CM
+senegal,SG
+trinidad,TD
+suriname,NS
+bangladesh,BG
+chile,CI
+ghana,GH
+dominica,DO
+myanmar,BM
+finland,FI
+lithuania,LH
+amer,AQ
+togo,TO
+iran,IR
+iraq,IZ
+ukraine,UP
+malta,MT
+cuba,CU
+madagascar,MA
+macau,MC
+bulgaria,BU
+hungary,HU
+congo,CF
+estonia,EN
+seychelles,SE
+liechtenstein,LS
+ch ,EZ
+ibi,WA
+slovenia,SI
+aldi,MV
+benin,BN
+australi,AS
+ethiopia,ET
+saint pierre,SB
+gan,UG
+aze,AJ
+ain,BA
+monaco,MN
+mauritania,MR
+par,PA
+saint martin,RN
+libya,LY
+ da,BS
+mali,ML
+saint pierre ,SB
+gap,SN
+rance,FR
+laos,LA
+nova,JU
+d f,WF
+kazakhstan,KZ
+mayotte,MF
+ ma,CQ
+swaziland,WZ
+guer,GK
+n c,VT
+philippine,RP
+belize,BH
+bosnia and herzegovina,BK
+republic of macedonia,MK
+montenegro,MJ
+kosovo,KV
+albania,AL
+armenia,AM
+belarus,BO
+moldova,MD
+paraguay,PA
+sao tome,TP
+german,GM
+bolivia,BL
+slovakia,LO
+mark,DA
+georgia,GG
+palestine,WE
+rwanda,RW
+europa,EU
+guy,GY
+niger,NG
+macedonia,MK
+bel,BE
+belgi,BE
+gent,AR
+spa,SP
+mars,RM
+island,AT
+yemen,YM
+alba,AL
+malawi,MI
+tanzania,TZ
+alger,AG
+nigeria,NI
+central african republic,CT
+chad,CD
+equatorial guinea,EK
+tunis,TS
+qatar,QA
+el salvador,ES
+ver,CV
+honduras,HO
+venezuela,VE
+andorra,AN
+rome,TE
+roma,RO
+leon,SL
+maldives,MV
+czech,EZ
+netherland,NL
+ se,CR
+nepal,NP
+h p,FP
+grenada,GJ
+papua new guinea,PP
+namibia,WA
+fiji,FJ
+syria,SY
+argentina pais,AR
+south australia,AS
+new south wales australia,AS
+gold coast qld  australia,AS
+warnambool australia,AS
+baja austria,AU
+inbev belgium s a,BE
+continental bakeries belgium sa,BE
+windle manufacturing belgium bvba sprl eggestraat   mechelen,BE
+inbev belgium nv sa,BE
+brazil and bolivia,BL
+les crudettes filiale financiere sdh rue de saint barthelemy zi saint barthelemy  chateauneuf sur loire,TB
+imported by importe par jvf canada inc toronto,CA
+made in canada from domestic and imported ingredients fabrique au canada a partir d ingredients canadiens et importes,CA
+compagnie campbell du canada a toronto,CA
+prepared for campbell company of canada prepare pour la compagnie campbell du canada  birmingham street,CA
+importe par kellogg canada inc mississauga,CA
+made fabrication syndicale prepared in canada prepare au canada reg t m m d campbell company of canada heinz canada authorized user utilisateur autorise comsumer services services aux consommate heinz canada,CA
+product of u s a produit des e u a tm mc lic use sous lic imported for importe pour canada dry mott s inc,CA
+c p  waterloo canada joe no,CA
+au canada a partir d ingredients canadiens et importes,CA
+canada est ,CA
+wellampitiya sri lanka,CE
+indien oder china,CH
+producto chileno,CI
+mount cameroon,CM
+norway seafoods a s djurslandskajen   grenaa denmark,DA
+a espersen a s rahbekfisk vaerftsvej   fredericia denmark,DA
+republica dominicana,DO
+republique dominicaine,DO
+rep dominicaine,DO
+northern ireland,EI
+republic of ireland,EI
+france denain ,FR
+france ,FR
+mondelez france sas bp  clamart cedex,FR
+france pornic,FR
+france verdon,FR
+france  biesheim,FR
+yoplait france filiale general mills sodiaal international  route d auxerre  moneteau,FR
+france  la ferte st aubin,FR
+refresco france  route des pangons  marges,FR
+france pays de loire,FR
+france senagral,FR
+france or spain,FR
+fromageries bel production france filiale groupe bel route du mans la tournerie  sable sur sarthe,FR
+france slaur sardet  rue de la vallee  le havre,FR
+dulfrance filiale groupe cepasco spigol holding financiere spigol  rue des sept ponts  roubaix,FR
+benoit snc bsnc filiale intersnack france  rue du claret zi de montbertrand  charvieu chavagneux,FR
+fafrique en france initia food sas zi les danjons  bourges france,FR
+conserves france filiale conserve italia  chemin du mas de cheylon  nimes,FR
+fromageries bel production france filiale groupe bel  boulevard bel  evron,FR
+ysco france  avenue de la eme db  argentan,FR
+bonduelle frais france bff filiale bonduelle fresh europe route de spada  maizey,FR
+bonduelle frais france bff filiale bonduelle fresh europe  genas,FR
+france ue,FR
+france dunkerque,FR
+mont blanc groupe mom filiale lbo france  rue du capitaine rex combs  chef du pont,FR
+france  douarnenez,FR
+materne groupe mom filiale lbo france place andre venet  boue,FR
+france  noisy le grand,FR
+froneri france sas,FR
+danone produits frais france dpff route de savignies  ferrieres en bray,FR
+danone produits frais france dpff filiale danone la sablonniere  le molay littry,FR
+danone produits frais france dpff  impasse du pan perdu les vercheres  saint just chaleyssin,FR
+danone produits frais france dpff  allee de l europe zi de la blanche maison  bailleul,FR
+danone produits frais france dpff  avenue de l industrie  villecomtal sur arros,FR
+continental foods france  route de carpentras  le pontet,FR
+etablissements auribault filiale france frais route de saint dizier  villiers en lieu,FR
+france oloron st marie,FR
+fromageries bel production france filiale groupe bel  boulevard jules ferry  lons le saunier,FR
+fromageries bel production france filiale groupe bel  rue du mont roland  dole,FR
+fromageries bel production france route du mans la tournerie  sable sur sarthe france,FR
+france  saint symphorien de lay,FR
+france perpignan,FR
+france route de castenaudary  castelnaudary,FR
+yoplait france filiale general mills sodiaal chemin des mines  vienne,FR
+yoplait france filiale general mills sodiaal  rue des grandes courbes  le mans,FR
+france ille et vilaine,FR
+florette france gms ffg filiale agrial espace d activites fernand finel  lessay,FR
+florette france gms ffg filiale agrial  avenue des deux vallees zone d activite a actipole  raillencourt sainte olle,FR
+florette france gms ffg filiale agrial route du thor zi petite marine  l isle sur la sorgue,FR
+conserves france domaine du grand frigolet berneraque  tarascon,FR
+conserves france  chemin du mas de cheylon  nimes,FR
+france le havre,FR
+france sud ouest,FR
+france ain  viriat,FR
+france folschviller,FR
+france ,FR
+saviel france filiale itm entreprises groupement les mousquetaires avenue des grands crus za des grands crus  tain l hermitage,FR
+intersnack france isf filiale groupe intersnack route de compiegne  montigny lengrain,FR
+florette food service france filiale agrial route de sainte marie  torreilles,FR
+france ,FR
+france  capdenac,FR
+fabrique en ch  schiers par albert spiess ag tranche par bell france pour auchan,FR
+dailycer france filiale pan foods europe b v filiale groupe mahajan industries aux sentiers d etelfay  faverolles,FR
+france ou cote d ivoire voir sur l etui,FR
+delifrance sa filiale groupe nutrixo parc d activites de la gare,FR
+florette france gms espace d activite fernand finel  lessay,FR
+ajouterfrance un lieu,FR
+mis en bouteille a  par rrg france  caromp,FR
+france sarthe,FR
+marie morin france za de l esperance,FR
+france ,FR
+france auvergne rhone alpes,FR
+france andiran,FR
+france rhone alpes,FR
+france  claix,FR
+france jura mesnay ,FR
+france ,FR
+france  bouffere,FR
+france marion,FR
+france ,FR
+france ou belgique,FR
+france comte,FR
+france  massy,FR
+france jura,FR
+france  argoules,FR
+france ,FR
+france par emb e,FR
+france champsac,FR
+findus france filiale nomad foods  boulevard du bassin napoleon  boulogne sur mer,FR
+france centre,FR
+france centre loiret pithiviers,FR
+h j heinz france  rue marx dormoy  seclin,FR
+france bretagne,FR
+france ,FR
+fabrique en france par la laiterie de saint malo,FR
+bister france sarl zac de l ecluse des marots  saint thibault,FR
+france lozere,FR
+fabrique en france pour dr oetker ag ch  obergosgen suisse,FR
+fabrique en france  colmar,FR
+nestle france mnf zone louis delaporte  rouxmesnil bouteilles,FR
+france granville ou vervins,FR
+fromageries bel production france filiale groupe bel  grande rue  clery le petit,FR
+tbilisi georgia,GG
+greenland seafood wilhelmshaven gmbh flutstrasse   wilhelmshaven,GL
+royal greenland seafood gmbh flutstrasse   wilhelmshaven,GL
+royal greenland seafood gmbh schleusenstrasse   cuxhaven,GL
+germany allemagne berlin,GM
+guadeloupe france,GP
+au guatemala,GT
+republique cooperative du guyana,GY
+eu yan sang hong kong ltd,HK
+karawang indonesia,ID
+nestle india limited,IN
+india ghaziabad,IN
+mondelez india foods pct ltd,IN
+le moulin d andiran  andiran,IR
+le moulin d andiran  andiran,IR
+via f de cecco fara s martino italy,IT
+sn arma di taggia italy,IT
+to italy,IT
+eurochef italia s r l via della tecnica  sommacampagna vr italy,IT
+andria bt italy,IT
+g pozzoli  srl via al piano  gordona so italy,IT
+giuseppe citterio salumificio spa via ticino  santo stefano ticino mi italy,IT
+barilla alimentare spa via mantova  stabilimento parma pr italy,IT
+ mo italy,IT
+nestle japan ltd,JA
+new jersey,JE
+the jordans ryvita company,JO
+konigreich jordanien,JO
+hilcona ag liechtenstein,LS
+hilcona sa au pricipaute du liechtenstein,LS
+elabore au liechtenstein,LS
+hilcona ag bendererstrasse   schaan fl liechtenstein,LS
+province de luxembourg,LU
+bascharage luxembourg,LU
+antananarivo madagascar,MA
+martinique et guadeloupe,MB
+inner mongolia,MG
+olesa de montserrat,MH
+product of mauritius produit de maurice,MP
+mexico city,MX
+estado de mexico mexico,MX
+the netherlands,NL
+enschede netherlands,NL
+amsterdamthe netherlands,NL
+elabore the netherlands,NL
+en the netherlands,NL
+ma zaandam netherlands,NL
+ new zealand,NZ
+product of new zealand,NZ
+au paraguay,PA
+lima peru,PE
+en poland,PL
+pepsi cola general bothers poland,PL
+european seafood investments portugal esip filiale mwbrands avenida monsenhor manuel bastos rodrigues de sousa   peniche,PO
+european seafood investments portugal sa avenida mons manuel bastos rodrigues de sousa   peniche portugal,PO
+la reunion france,RE
+saint martin de londres,RN
+saint martin la plaine,RN
+lactalis nestle ultra frais bayeux lnuf bayeux filiale groupe lactalis rue jean mermoz zac des longchamps  saint martin des entrees,RN
+sas frial  route de caen  saint martin des entrees,RN
+saint martin d abbat france,RN
+f  saint martin belle roche,RN
+candia filiale sodiaal international rue saint martin la fondinais  campbon,RN
+saint martin des champs,RN
+frial  route de caen  saint martin des entrees,RN
+saint martin d abbat,RN
+antartic asa filiale itm entreprises groupement les mouquetaires rue des genets zi des genets  saint martin d abbat,RN
+antartic  saint martin d abbat,RN
+ saint martin d abbat,RN
+societe nouvelle took took filiale dessaint food services filiale groupe norac  rue louis armand zi de kerivin  saint martin des champs,RN
+terre des lys  route nationale  parc d activite saint martin  aire sur la lys,RN
+saint martin d eyrans,RN
+saint martin d uriage,RN
+saint martin le gaillard,RN
+saint martin d heres,RN
+saint martin en haut,RN
+calea seva bocu nr   timisoara jud timis romania,RO
+bucuresti romania,RO
+brgy san atonio san pedro laguna philippines,RP
+the philippines,RP
+batook chewing gum saudi arabia,SA
+fabrique aux seychelles,SE
+les seychelles,SE
+south africa cape town,SF
+la ferme d erquinvillers  rue des tirailleurs senegalais  erquinvillers,SG
+dakar senegal,SG
+en singapore,SN
+amc spain fresh natural foods sl,SP
+spain and nederland,SP
+spain espana,SP
+mondelez switzerland gmbh lindbergh allee   glattpark schweiz,SZ
+fr thailande,TH
+impote de thailand,TH
+en thailand,TH
+ thailand,TH
+lome togo,TO
+hammamet tunisia,TS
+distribue par erabliere turkey hill ltee,TU
+taichung taiwan,TW
+taidong taiwan,TW
+nantao taiwan,TW
+penhu taiwan,TW
+shinchu taiwan,TW
+manchester united kingdom,UK
+en united kingdom,UK
+united states if america,US
+zambia lusaka,ZA
+goy widmer y cia s a ruta nacional  km   monte cristo cordoba republica argentina,AR
+les nutons marche chemin saint antoine   marche en famenne belgium,BE
+s a carrefour belgium,BE
+inbev belgium,BE
+bc vm n canada,CA
+ontario canada,CA
+toronto canada,CA
+ontario lr b canada,CA
+unilever trade mark owned or used under license by marque de commerce detenue ou utilisee sous licence par imported by importe par unilever canada,CA
+unilever trade mark owned or used under license by marque de commerce detenue ou utilisee sous licence par prepared for prepare pour unilever canada,CA
+trademark of marque de commerce de manufactured by prepare par aliments ouimet cordon bleu inc anjou quebec hj p canada,CA
+qc canada,CA
+quebec canada,CA
+mississauga ontario canada,CA
+bc canada,CA
+mississauga on canada,CA
+fr:quebec canada,CA
+trois rivieres quebec canada,CA
+royal bee farm of canada,CA
+nanton ab canada,CA
+finca la canada,CA
+montreal canada,CA
+les lacs  st yrieix la perche france,FR
+conditionne en france,FR
+bedee france,FR
+stoeffler zone industrielle bd d europe bp   obernai cedex france,FR
+ villars france,FR
+hauts de france,FR
+canavese sa aubagne france,FR
+clerval france,FR
+ouest de la france,FR
+societe morlaisienne salaisons la lande du chenot  beignon france,FR
+haut de france,FR
+origine france,FR
+product of france,FR
+clamart france,FR
+quiberon france,FR
+transforme en france,FR
+lozere en france,FR
+en france,FR
+lyon france,FR
+mesnay jura france,FR
+grasse france,FR
+ile de france,FR
+ quai theodore botrel  pont aven france,FR
+sud de la france,FR
+lindt and sprungli sas oloron sainte marie france,FR
+f  jandun pour lidl france,FR
+ verson france,FR
+ cuiseaux france,FR
+pelussin  france,FR
+rodez france,FR
+elabore en france,FR
+bourgbarre france,FR
+qta da francelha de baixo,FR
+ larceveau france,FR
+trambly france,FR
+procanar  lauzach france,FR
+conditionnement en france,FR
+ jouy france,FR
+ guer france,FR
+ses les loges  la guyonniere france,FR
+bourg barre france,FR
+haut doubs france,FR
+montdidier france,FR
+usine de marville lieu dit sivadal  prigonrieux france,FR
+saint agathon france,FR
+fr fabrique en france,FR
+jardin du languedoc a  maureilhan france,FR
+mayenne france,FR
+nestle grand froid  rue charles tellier  beauvais france,FR
+fabrique en france,FR
+normandie france,FR
+isere france,FR
+fr fume en france,FR
+fume en france,FR
+prepare en france,FR
+andros  biars france,FR
+ orchies france,FR
+sud ouest de la france,FR
+hardricourt  france,FR
+jura france,FR
+brassee en france,FR
+maubourguet  france,FR
+ssud ouest de la france,FR
+vichy france,FR
+nord de la france,FR
+lorraine france,FR
+manufacture en france,FR
+saupiquet all de kergolvez  quimper france,FR
+emballe en france,FR
+produit importe conditionne en france,FR
+cuisine en france,FR
+novandie che departemental   vieil moutier france,FR
+novandie bourg  marcille raoul france,FR
+seiches sur le loir france,FR
+moitie nord de la france,FR
+fromageries perreault le fresne  meslay du maine france,FR
+vire cedex france,FR
+provence france,FR
+saveur d auge parc d activites launay art anc rte de lisieux  pont l eveque france,FR
+malongo  carros france,FR
+produit en france,FR
+ blanquefort france,FR
+vitrolles france,FR
+poitou charantes france,FR
+elabore en suisse et tranche en france,FR
+fr produit en france,FR
+lons le saunier france,FR
+lactalis france,FR
+lf bd arago zi des touches  change france,FR
+hors france,FR
+saint georges de montagu france,FR
+saverne france,FR
+maurecourt  france,FR
+f  castelnaudary france,FR
+societe industrielle laitiere du leon rte de tariec ld le raden bp   plouvien france,FR
+deux sevres france,FR
+claviere soc z i les mesnils pasteur av verdun  dole france,FR
+gilbert baradat zone artisanale errobi  itxassou france,FR
+conserves stephan zi de kerprat bp   ploumagoar france,FR
+tranche et conditionne en france,FR
+aranche manche france,FR
+celliers des terres de france,FR
+indre ou loiret france,FR
+viniat france,FR
+kerlys  locoal mendon france,FR
+bretagne france,FR
+conditionne a charmes sur rhone  france,FR
+locoal mendon france,FR
+seul  avenue de toulouse  bagneres de bouchon france,FR
+antartic ii z a  charmes sur rhone france,FR
+ saint evarzec france,FR
+fr france,FR
+les delices d auzan  caltelnau d auzan france,FR
+clohars carnoet france,FR
+britviv france,FR
+ laille france,FR
+jus de fruits d alsace  sarre union france,FR
+marcille raoul  france,FR
+antartic ii  charmes sur rhone france,FR
+ annot france,FR
+saviel france,FR
+neufchateau france,FR
+st evarzec  france,FR
+ st symphorien sur coise france,FR
+locmine france,FR
+fr entreprise de france,FR
+primel gastronomie ld kerfeunteun  plougasnou france,FR
+tranbsforme en france,FR
+loiret france,FR
+fr transforme en france,FR
+commercy france,FR
+covi  rte de clisson  saint sebastien sur loire france,FR
+nutrition nature filiale nutrition sante chemin de l horte zi de la pomme  revel france,FR
+sud ouest france,FR
+ queven france,FR
+patisseries gourmandes cs   loudeac cedex france,FR
+produit de france,FR
+rodez aveyron france,FR
+douardenez france,FR
+gretz armainvilliers france,FR
+lait  france,FR
+maitres laitiers du cotentin  sottevast france,FR
+mlc  sottevast france,FR
+roussillon en france,FR
+sarbazan france,FR
+produit elabore en france,FR
+sas greenyard frozen france,FR
+melange elabore en france,FR
+fromarsac bp  marsac sur l isle  perigueux cedex  france,FR
+touquet savour s a s rd  bp   essertaux france,FR
+avenue du passe temps  aubagne france,FR
+ aubagne france,FR
+michel bolard zi au nievre d en bas  saint amour france,FR
+salaisons bolard freres z i au nievre d en bas  rue philibert de la baume  saint amour france,FR
+pont saint esprit  france,FR
+huilerie emile noel  france,FR
+revel france,FR
+chaponost france,FR
+fort de france,FR
+fr pomme de terres de france,FR
+isf montigny lengrainn vic sur aisne france,FR
+fr semoule de mais de france,FR
+les mets de provence sas z i la croisiere  bollene france,FR
+lacaune tarn france,FR
+flavigny france,FR
+concarneau france,FR
+fr torrefie en france,FR
+ardeche france,FR
+tarn et garonne france,FR
+assemble en france,FR
+za la boissonnette  peaugres france,FR
+avignon france,FR
+ za la bossardiere  le landreau france,FR
+lns parc d activites de torce secteur est  torce france,FR
+evry france,FR
+paris france,FR
+st alban france,FR
+made in france,FR
+les chevaliers d argouges za la busnouviere  moyon france,FR
+ france,FR
+ancenis france,FR
+gramat france,FR
+guerande france,FR
+aoste france,FR
+scamark b p   ivry sur seine cedex france,FR
+elvir  conde sur vir france,FR
+graulhet  france,FR
+sancoins  france,FR
+ernee france,FR
+rue eugene guerin  carpentras france,FR
+ servas france,FR
+vendee france,FR
+torrefie en france,FR
+manosque france,FR
+ joyeuse france,FR
+ terasson france,FR
+casseneuil france,FR
+ casseneuil france,FR
+neffes france,FR
+montpezat france,FR
+montaigu  france,FR
+montaigu france,FR
+charmes sur rhone france,FR
+apt france,FR
+sas erteco france,FR
+antico pastificio morelli  srl via san francesco   san romano,FR
+cazan provence france,FR
+ rue du verger bp   chantepie cedex france,FR
+mifroma france,FR
+loir et cher france,FR
+massy france,FR
+societe riviere zi entourre  av frederic passy  castelnaudary france,FR
+fr consitionne en france,FR
+pomly  rue principale  rozet saint albin france,FR
+transforme france,FR
+loc maria  dinan bretagne france,FR
+bias  france,FR
+gourdon france,FR
+ quiberon france,FR
+gimont  france,FR
+pyrenees france,FR
+bio atlantique  magescq france,FR
+lupstein  france,FR
+en made in france,FR
+ civens france,FR
+gemenos  france,FR
+torrefie et conditionne en france,FR
+sobreval  jugon les lacs france,FR
+cleon d andran france,FR
+eridan  rue des capucins  lyon france,FR
+la caillere france,FR
+ceyzeriat france,FR
+ roussillon france,FR
+sud de france,FR
+ ustaritz france,FR
+sas poil a gratter zae est  tallard france,FR
+montpellier france,FR
+izon sud ouest france,FR
+brasse en france,FR
+compiegne france,FR
+societe des sources de signes  signes france,FR
+charcuteries gourmandes zi de la rochette  josselin france,FR
+ landiras france,FR
+novandie bp   auneau france,FR
+perpignan france,FR
+marne la vallee france,FR
+torrefie et moulu en france,FR
+marseille france,FR
+refresco france,FR
+en germany,GM
+franz brombach str    erding germany,GM
+hamburg germany,GM
+b paulus gmbh tiefkuhlspezialitaten blattelbornweg   merzig germany,GM
+kahla germany,GM
+socrema guadeloupe,GP
+la guadeloupe,GP
+kheda india,IN
+ irancy,IR
+en japan,JA
+gros morne martinique,MB
+estado de mexico,MX
+ciudad de mexico,MX
+tijuana mexico,MX
+queretaro mexico,MX
+nuevo mexico,MX
+zapopan jalisco mexico,MX
+sinaloa mexico,MX
+guanajuato mexico,MX
+cuauhtemoc ciudad de mexico,MX
+sonora mexico,MX
+cuajimalpa de morelos ciudad de mexico,MX
+cd de mexico,MX
+lomas de chapultepec ciudad de mexico,MX
+jalisco mexico,MX
+de mexico,MX
+nuevo leon mexico,MX
+durango mexico,MX
+lagos de moreno jalisco mexico,MX
+tepotzotlan estado de mexico,MX
+edo mexico,MX
+merida yucatan mexico,MX
+tultitlan estado de mexico,MX
+aguascalientes mexico,MX
+chihuahua mexico,MX
+chihuahua chihuahua mexico,MX
+wal mart de mexico,MX
+azcapotzalco ciudad de mexico,MX
+edo de mexico,MX
+iztapalapa mexico,MX
+toluca estado de mexico,MX
+espagne portugal,PO
+lisboa portugal,PO
+la reunion,RE
+ile de la reunion,RE
+ etang sale la reunion,RE
+societe beurriere d isigny filiale groupe lactalis  avenue saint martin,RN
+ tournon saint martin,RN
+tournon saint martin,RN
+en south africa,SF
+es  gador almeira spain,SP
+nutriops s l r g s a   m u avda c blancos p   b p e cabecicos blancos  librilla murcia spain,SP
+ alhama de murcia spain,SP
+valencia spain,SP
+micarna sa divison volaille rte de l industrie  courtepin fr switzerland,SZ
+i̇stanbul turkey,TU
+istanbul turkey,TU
+en united states,US
+virgin islands of the united states,US
+espana,SP
+bretagne,FR
+italie,IT
+deutschland,GM
+belgique,BE
+suisse,SZ
+allemagne,GM
+espagne,SP
+royaume uni,UK
+pays de la loire,FR
+pays bas,NL
+finistere,FR
+italia,IT
+union europeenne,EU
+vendee,FR
+nord pas de calais,FR
+normandie,FR
+rhone alpes,FR
+morbihan,FR
+comunidad valenciana,SP
+thailande,TH
+provence,FR
+centre val de loire,FR
+andalucia,SP
+ille et vilaine,FR
+castilla y leon,SP
+alsace,FR
+loiret,FR
+sarthe,FR
+alemania,GM
+basse normandie,FR
+россия,RS
+navarra,SP
+loire atlantique,FR
+nord,SW
+cotes d armor,FR
+italien,IT
+chine,CH
+calvados,FR
+cataluna,SP
+provence alpes cote d azur,FR
+grece,GR
+pas de calais,FR
+castilla la mancha,SP
+valencia provincia,SP
+ecosse,UK
+murcia comunidad autonoma,SP
+pologne,PL
+angleterre,UK
+bourgogne,FR
+aquitaine,FR
+francia,FR
+autriche,AU
+estavayer lait sa laitiers route de payerne   estavayer le lac fr suisse,SZ
+schweiz,SZ
+bischofszell nahrungsmittel ag industriestrasse   bischofszell tg suisse,SZ
+danemark,DA
+jowa ag erlenwiesenstrasse  volketswil suisse,SZ
+elabore en suisse,SZ
+emmi frischprodukte ag forelstrasse   ostermundigen be suisse,SZ
+fromagerie moleson sa fabrication pre de la croix   orsonnens fr suisse,SZ
+midor ag bruechstrasse   meilen suisse,SZ
+niederlande,NL
+CH,SZ
+belgien,BE
+england,UK
+scotland,UK
+europe,EU
+mexique,MX
+hongrie,HU
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
