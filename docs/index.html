@@ -97,10 +97,11 @@ title: {{ site.name }}
     <p>...
     </p>
 
-    <table class="uk-table uk-table-middle" id="importer-flags" style="border: none !important;">
-        <caption>The most important importers in Europe</caption>
-    </table>
-
+    <div style='text-align: center'>
+        <table class="uk-table uk-table-middle" id="importer-flags" style="border: none !important; text-align: center">
+            <caption>The most important importers in Europe</caption>
+        </table>
+    </div>
 </div>
 
 <p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can
@@ -129,7 +130,21 @@ title: {{ site.name }}
     <p>...
     </p>
 
-    <canvas id="myChart" width="50%"></canvas>
+    <div>
+        <div uk-grid>
+            <div class="uk-width-auto@m">
+                <ul id="evolution-categories" class="uk-tab-left"
+                    uk-tab="connect: #component-tab-left; animation: uk-animation-fade">
+
+                </ul>
+            </div>
+            <div class="uk-width-expand@m">
+                <ul id="component-tab-left" class="uk-switcher">
+
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 
 
@@ -314,94 +329,81 @@ title: {{ site.name }}
             }
         });
 
-        var ctx = document.getElementById("myChart").getContext('2d');
-        var chart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ["2012", "2013", "2014", "2015"],
-                datasets: [
-                    {
-                        label: '# of Votes',
-                        data: [12, 19, 3, 5],
-                        backgroundColor: [
-                            'rgba(255, 99, 132, 0.2)',
-                            'rgba(54, 162, 235, 0.2)',
-                            'rgba(255, 206, 86, 0.2)',
-                            'rgba(75, 192, 192, 0.2)'
-                        ],
-                        borderColor: [
-                            'rgba(255,99,132,1)',
-                            'rgba(54, 162, 235, 1)',
-                            'rgba(255, 206, 86, 1)',
-                            'rgba(75, 192, 192, 1)'
-                        ],
-                        borderWidth: 1
+
+        $.getJSON('{{ site.baseurl }}/ADA-project/data/import_category_evolution.json', function (json) {
+
+            var categories = json.categories;
+            for (var i = 0; i < categories.length; i++) {
+                var new_row = "<li><a href='#'>" + categories[i].category_name + "</a></li>";
+                $("#evolution-categories").append(new_row);
+
+                var new_chart = "<li><canvas id='myChart-" + i + "' width='50%'></canvas></li>";
+                $("#component-tab-left").append(new_chart);
+
+                var ctx = document.getElementById("myChart-" + i).getContext('2d');
+                var chart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: [categories[i].years[0].year, categories[i].years[1].year, categories[i].years[2].year, categories[i].years[3].year],
+                        datasets: [
+                            {
+                                label: 'consumption',
+                                data: [categories[i].years[0].consumption, categories[i].years[1].consumption, categories[i].years[2].consumption, categories[i].years[3].consumption],
+                                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                                borderColor: 'rgba(255,99,132,1)',
+
+                                borderWidth: 1
+                            },
+//                            {
+//                                label: 'Number of Votes',
+//                                data: [12, 19, 3, 5],
+//                                backgroundColor: [
+//                                    'rgba(255, 99, 132, 0.2)',
+//                                    'rgba(54, 162, 235, 0.2)',
+//                                    'rgba(255, 206, 86, 0.2)',
+//                                    'rgba(75, 192, 192, 0.2)'
+//                                ],
+//                                borderColor: [
+//                                    'rgba(255,99,132,1)',
+//                                    'rgba(54, 162, 235, 1)',
+//                                    'rgba(255, 206, 86, 1)',
+//                                    'rgba(75, 192, 192, 1)'
+//                                ],
+//                                borderWidth: 1
+//                            },
+//                            {
+//                                label: 'Number of Votes 3',
+//                                data: [15, 4, 1, 5],
+//                                backgroundColor: [
+//                                    'rgba(255, 99, 132, 0.2)',
+//                                    'rgba(54, 162, 235, 0.2)',
+//                                    'rgba(255, 206, 86, 0.2)',
+//                                    'rgba(75, 192, 192, 0.2)'
+//                                ],
+//                                borderColor: [
+//                                    'rgba(255,99,132,1)',
+//                                    'rgba(54, 162, 235, 1)',
+//                                    'rgba(255, 206, 86, 1)',
+//                                    'rgba(75, 192, 192, 1)'
+//                                ],
+//                                borderWidth: 1
+//                            }
+                        ]
                     },
-                    {
-                        label: 'Number of Votes',
-                        data: [12, 19, 3, 5],
-                        backgroundColor: [
-                            'rgba(255, 99, 132, 0.2)',
-                            'rgba(54, 162, 235, 0.2)',
-                            'rgba(255, 206, 86, 0.2)',
-                            'rgba(75, 192, 192, 0.2)'
-                        ],
-                        borderColor: [
-                            'rgba(255,99,132,1)',
-                            'rgba(54, 162, 235, 1)',
-                            'rgba(255, 206, 86, 1)',
-                            'rgba(75, 192, 192, 1)'
-                        ],
-                        borderWidth: 1
-                    },
-                    {
-                        label: 'Number of Votes 3',
-                        data: [15, 4, 1, 5],
-                        backgroundColor: [
-                            'rgba(255, 99, 132, 0.2)',
-                            'rgba(54, 162, 235, 0.2)',
-                            'rgba(255, 206, 86, 0.2)',
-                            'rgba(75, 192, 192, 0.2)'
-                        ],
-                        borderColor: [
-                            'rgba(255,99,132,1)',
-                            'rgba(54, 162, 235, 1)',
-                            'rgba(255, 206, 86, 1)',
-                            'rgba(75, 192, 192, 1)'
-                        ],
-                        borderWidth: 1
-                    }]
-            },
-            options: {
-                scales: {
-                    yAxes: [{
-                        ticks: {
-                            beginAtZero: true
-                        },
-                        stacked: true
-                    }],
-                    xAxes: [{
-                        stacked: true
-                    }]
-                }
+                    options: {
+                        scales: {
+                            yAxes: [{
+                                ticks: {
+                                    beginAtZero: true
+                                }
+                            }]
+                        }
+                    }
+                });
             }
         });
-        chart.data.datasets[0].data[2] = 50;
-        chart.update();
-        removeData(chart);
 
 
-        function addData(chart, label, data) {
-            chart.data.labels.push(label);
-            chart.data.datasets[0].data.push(10);
-            chart.update();
-        }
-
-        function removeData(chart) {
-            chart.data.labels.pop();
-            chart.data.datasets[0].data.pop();
-            chart.update();
-        }
     })
     ;
 
