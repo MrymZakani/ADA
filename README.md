@@ -48,7 +48,8 @@ For milestone 2, we should have the outcome for the first research question, whi
     * Create a map showing major actors on the global food market
 - Finding the blog skeleton.
 
-# Questions for TAa
-- Which technology do you recommend in order to create a blog representation for our user story?
-- What is a good scope for this project? Is it good to narrow scope of our research down to Switzerland?
-- As mentioned in dataset part, Can we use "product added on" as an indicator of the presence of the product in the country? Otherwise, we were thinking about using the "evolution of the consumption of products categories" given by the swiss-open-data, and then linking those categories, with the categories of the products in open-food-data. In this point we could draw conclusions of country-of-origin-of-ingredients, and country-of-manufacture by years. Is this approach right? is there another better approach?
+
+# Contributions
+- Maryam: Cleaning "countries" information in dataset. Draw statistics from the importation balances. Narrative of data story. Collaboration in page development. Merging of last version of page.
+- Valentine: Cleaning "categories" information in dataset. Find additional related datasets. Collaboration in page development. Network graphs. Interactive map visualization.
+- Paola: Find additional related datasets. Exploration of time-evolution of local consumption with openfood dataset. Most important categories by country in EU. Final presentation.
