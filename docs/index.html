@@ -97,6 +97,20 @@ title: {{ site.name }}
     <p>...
     </p>
 
+    <ul uk-tab>
+        <li><a href="#">Europe</a></li>
+        <li><a href="#">Switzerland</a></li>
+    </ul>
+    <ul class="uk-switcher uk-margin">
+        <li>
+            <canvas id='myChart-europe-most-important-manufacturers' width='50%'></canvas>
+        </li>
+        <li>
+            <canvas id='myChart-swiss-most-important-manufacturers' width='50%'></canvas>
+        </li>
+    </ul>
+
+
     <div style='text-align: center'>
         <table class="uk-table uk-table-middle" id="importer-flags" style="border: none !important; text-align: center">
             <caption>The most important importers in Europe</caption>
@@ -358,9 +372,9 @@ title: {{ site.name }}
                             },
                             {
                                 label: 'Importation',
-                                data: [categories[i].years[0].total_import ,
-                                    categories[i].years[1].total_import ,
-                                   categories[i].years[2].total_import ,
+                                data: [categories[i].years[0].total_import,
+                                    categories[i].years[1].total_import,
+                                    categories[i].years[2].total_import,
                                 ],
                                 backgroundColor: 'rgba(54, 162, 235, 0.2)',
                                 borderColor: 'rgba(54, 162, 235, 1)',
@@ -381,7 +395,50 @@ title: {{ site.name }}
             }
         });
 
+        var ctx2 = document.getElementById("myChart-swiss-most-important-manufacturers").getContext('2d');
+        var chart_swiss_manufacturer = new Chart(ctx2, {
+            type: 'bar',
+            data: {
+                labels: ["Switzerland", "France", "Germany", "Italy", "United Kingdom", "Belgium", "Netherlands", "Spain",
+                    "Austria", "Poland"],
+                datasets: [
+                    {
+                        label: 'Number of products',
+                        data: [1293, 654, 242, 209, 75, 59, 57, 40, 27, 26],
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        borderColor: 'rgba(255,99,132,1)',
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
 
+        var ctx3 = document.getElementById("myChart-europe-most-important-manufacturers").getContext('2d');
+        var chart_europe_manufacturer = new Chart(ctx3, {
+            type: 'bar',
+            data: {
+                labels: ["France", "Spain", "Germany", "Italy", "United Kingdom", "Belgium", "Switzerland", "Netherlands", "Sweden",
+                    "Europe union"],
+                datasets: [
+                    {
+                        label: 'Number of products',
+                        data: [45824, 7604, 4862, 4505, 2427, 2416, 2296, 1059, 605, 599],
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        borderColor: 'rgba(255,99,132,1)',
+                        borderWidth: 1
+                    }
+                ]
+            }
+        });
     })
     ;
 
