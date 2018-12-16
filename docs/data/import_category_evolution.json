@@ -5,7 +5,8 @@
       "years": [
         {
           "year": 2012,
-          "consumption": 50.4,
+          "consumption": 3725,
+          "total_import":687,
           "importers": [
             {
               "amount": 20143,
@@ -23,7 +24,8 @@
         },
         {
           "year": 2013,
-          "consumption": 50.5,
+          "consumption": 3752,
+          "total_import":760,
           "importers": [
             {
               "amount": 27981,
@@ -41,7 +43,8 @@
         },
         {
           "year": 2014,
-          "consumption": 50.7,
+          "consumption": 3785,
+          "total_import":743,
           "importers": [
             {
               "amount": 27397,
@@ -59,7 +62,8 @@
         },
         {
           "year": 2015,
-          "consumption": 49.8,
+          "consumption": 3759,
+          "total_import":712,
           "importers": [
             {
               "amount": 20346,
@@ -100,7 +104,8 @@
       "years": [
         {
           "year": 2012,
-          "consumption": 247.7,
+          "consumption": 5646,
+          "total_import":939,
           "importers": [
             {
               "amount": 10887,
@@ -118,7 +123,8 @@
         },
         {
           "year": 2013,
-          "consumption": 251.6,
+          "consumption": 5795,
+          "total_import":975,
           "importers": [
             {
               "amount": 12227,
@@ -136,7 +142,8 @@
         },
         {
           "year": 2014,
-          "consumption": 248.2,
+          "consumption": 5783,
+          "total_import":989,
           "importers": [
             {
               "amount": 13190,
@@ -154,7 +161,8 @@
         },
         {
           "year": 2015,
-          "consumption": 246.7,
+          "consumption": 5807,
+          "total_import":1019,
           "importers": [
             {
               "amount": 19863,
@@ -195,7 +203,8 @@
       "years": [
         {
           "year": 2012,
-          "consumption": 91.9,
+          "consumption": 7901,
+          "total_import":4621,
           "importers": [
             {
               "amount": 159503,
@@ -213,7 +222,8 @@
         },
         {
           "year": 2013,
-          "consumption": 90.1,
+          "consumption": 7866,
+          "total_import":4501,
           "importers": [
             {
               "amount": 167312,
@@ -231,7 +241,8 @@
         },
         {
           "year": 2014,
-          "consumption": 90.0,
+          "consumption": 7907,
+          "total_import":4842,
           "importers": [
             {
               "amount": 184020,
@@ -249,7 +260,8 @@
         },
         {
           "year": 2015,
-          "consumption": 92.6,
+          "consumption": 8216,
+          "total_import":5204,
           "importers": [
             {
               "amount": 123134,
@@ -290,7 +302,8 @@
       "years": [
         {
           "year": 2012,
-          "consumption": 106.5,
+          "consumption": 710,
+          "total_import": 370,
           "importers": [
             {
               "amount": 11241,
@@ -308,7 +321,8 @@
         },
         {
           "year": 2013,
-          "consumption": 105.2,
+          "consumption": 706,
+          "total_import":390,
           "importers": [
             {
               "amount": 20172,
@@ -326,7 +340,8 @@
         },
         {
           "year": 2014,
-          "consumption": 104.5,
+          "consumption": 712,
+          "total_import":375,
           "importers": [
             {
               "amount": 18119,
@@ -344,7 +359,8 @@
         },
         {
           "year": 2015,
-          "consumption": 104.2,
+          "consumption": 719,
+          "total_import":385,
           "importers": [
             {
               "amount": 23316,
@@ -385,7 +401,8 @@
       "years": [
         {
           "year": 2012,
-          "consumption": 121.1,
+          "consumption": 1680,
+          "total_import":1282,
           "importers": [
             {
               "amount": 11241,
@@ -403,7 +420,8 @@
         },
         {
           "year": 2013,
-          "consumption": 119.3,
+          "consumption": 1673,
+          "total_import":1372,
           "importers": [
             {
               "amount": 11134,
@@ -421,7 +439,8 @@
         },
         {
           "year": 2014,
-          "consumption": 114.9,
+          "consumption": 1648,
+          "total_import":1354,
           "importers": [
             {
               "amount": 11050,
@@ -439,7 +458,8 @@
         },
         {
           "year": 2015,
-          "consumption": 115.1,
+          "consumption": 1669,
+          "total_import":1375,
           "importers": [
             {
               "amount": 11556,
