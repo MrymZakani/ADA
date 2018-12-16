@@ -69,11 +69,11 @@ title: {{ site.name }}
 
     <h2>From a european point of view</h2>
 
-        <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a" frameBorder="0"></iframe>
+    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_EU" name="iframe_a" frameBorder="0"></iframe>
 
     <h2>From a swiss point of view</h2>
 
-        <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a" frameBorder="0"></iframe>
+    <iframe height="500px" width="100%" src="img/plots/map_manufacturers_CH" name="iframe_a" frameBorder="0"></iframe>
 
     <p>Switzerland greatly depends on other countries in order to feed its population. Because of the repartition of the
         mountains,
@@ -103,19 +103,25 @@ title: {{ site.name }}
 
 </div>
 
-<p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can clearly see 
-that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers are proportionaly pretty equivalent in the
-number of products they import.</p>
+<p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can
+    clearly see
+    that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers are
+    proportionaly pretty equivalent in the
+    number of products they import.</p>
 <div class="container">
     <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a" frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood Facts</a></div>
-    </div>
-<p>Finally we can see here that most products from our database that are consumed in Switzerland are manufactured in the country itself, even though
-France remains a big importer of manufactured products</p>
+    <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
+        Facts</a></div>
+</div>
+<p>Finally we can see here that most products from our database that are consumed in Switzerland are manufactured in the
+    country itself, even though
+    France remains a big importer of manufactured products</p>
 <div class="container">
-    <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a" frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for Switzerland from <a href="https://world.openfoodfacts.org/data">OpenFood Facts</a></div>
-    </div>    
+    <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
+            frameBorder="0"></iframe>
+    <div class="overlay">Main manufacturers for Switzerland from <a href="https://world.openfoodfacts.org/data">OpenFood
+        Facts</a></div>
+</div>
 
 <div class="article">
     <h1>Evolution of consuming more local in Switzerland</h1>
@@ -285,3 +291,119 @@ France remains a big importer of manufactured products</p>
         which is also related to an economic aspect.
     </p>
 </div>
+
+<script>
+    $(document).ready(function () {
+        $.getJSON('{{ site.baseurl }}/data/countries_flags.json', function (json) {
+
+            var categories = json.categories;
+            for (var i = 0; i < categories.length; i++) {
+                var new_row = "";
+                new_row += "<tr><td style='text-align: center'>" +
+                        "<img src=" + categories[i].category_icon + " alt=" + categories[i].category_name + " width='50' height='50' uk-tooltip='" +
+
+                        categories[i].category_name + "'></td>";
+
+                for (var j = 0; j < categories[i].countries.length; j++) {
+                    new_row += "<td style='text-align: center'>" +
+                            "<img src=" + categories[i].countries[j].icon + " alt=" + categories[i].countries[j].name + " width='40' height='40' uk-tooltip='" +
+                            categories[i].countries[j].name + "\n" + categories[i].countries[j].amount + "'>" + "</td>";
+                }
+                new_row += "</tr>";
+                $("#importer-flags").append(new_row);
+            }
+        });
+
+        var ctx = document.getElementById("myChart").getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ["2012", "2013", "2014", "2015"],
+                datasets: [
+                    {
+                        label: '# of Votes',
+                        data: [12, 19, 3, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Number of Votes',
+                        data: [12, 19, 3, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Number of Votes 3',
+                        data: [15, 4, 1, 5],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(255, 206, 86, 0.2)',
+                            'rgba(75, 192, 192, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255,99,132,1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        },
+                        stacked: true
+                    }],
+                    xAxes: [{
+                        stacked: true
+                    }]
+                }
+            }
+        });
+        chart.data.datasets[0].data[2] = 50;
+        chart.update();
+        removeData(chart);
+
+
+        function addData(chart, label, data) {
+            chart.data.labels.push(label);
+            chart.data.datasets[0].data.push(10);
+            chart.update();
+        }
+
+        function removeData(chart) {
+            chart.data.labels.pop();
+            chart.data.datasets[0].data.pop();
+            chart.update();
+        }
+    })
+    ;
+
+
+</script>
