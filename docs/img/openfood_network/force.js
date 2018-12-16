@@ -42,7 +42,7 @@ var node = vis.selectAll("circle.node")
   .attr("r", function(d) { return d.size/1000})//((d.size - 264)/45562 + 1)*6 })
   .style("fill", function(d) { return fill(d.group); })
   .call(force.drag)
-  .on("mouseover", function(d){return tooltip.style("visibility", "visible").text(d.country +', Total products imported: ' +d.size);})
+  .on("mouseover", function(d){return tooltip.style("visibility", "visible").text(d.country +', Total manufactured products: ' +d.size);})
     .on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
     .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
