@@ -104,9 +104,38 @@ title: {{ site.name }}
     <ul class="uk-switcher uk-margin">
         <li>
             <canvas id='myChart-europe-most-important-manufacturers' width='50%'></canvas>
+
+            <p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here
+                we can
+                clearly see
+                that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers
+                are
+                proportionaly pretty equivalent in the
+                number of products they import.</p>
+
+            <div class="container">
+                <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a"
+                        frameBorder="0"></iframe>
+                <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
+                    Facts</a></div>
+            </div>
+
         </li>
         <li>
             <canvas id='myChart-swiss-most-important-manufacturers' width='50%'></canvas>
+
+            <p>Finally we can see here that most products from our database that are consumed in Switzerland are
+                manufactured in the
+                country itself, even though
+                France remains a big importer of manufactured products</p>
+
+            <div class="container">
+                <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
+                        frameBorder="0"></iframe>
+                <div class="overlay">Main manufacturers for Switzerland from <a
+                        href="https://world.openfoodfacts.org/data">OpenFood
+                    Facts</a></div>
+            </div>
         </li>
     </ul>
 
@@ -118,32 +147,16 @@ title: {{ site.name }}
     </div>
 </div>
 
-<p>Another way to visualize the most important manufacturers for Europe is the following network graph. Here we can
-    clearly see
-    that France is the biggest importer, with a total of 45826 products, whereas the rest of the importers are
-    proportionaly pretty equivalent in the
-    number of products they import.</p>
-<div class="container">
-    <iframe height="400px" width="100%" src="img/openfood_network/force.html" name="iframe_a" frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for the EU from <a href="https://world.openfoodfacts.org/data">OpenFood
-        Facts</a></div>
-</div>
-<p>Finally we can see here that most products from our database that are consumed in Switzerland are manufactured in the
-    country itself, even though
-    France remains a big importer of manufactured products</p>
-<div class="container">
-    <iframe height="400px" width="100%" src="img/openfood_network_ch/force.html" name="iframe_a"
-            frameBorder="0"></iframe>
-    <div class="overlay">Main manufacturers for Switzerland from <a href="https://world.openfoodfacts.org/data">OpenFood
-        Facts</a></div>
-</div>
 
 <div class="article">
     <h1>Evolution of consuming more local in Switzerland</h1>
 
-    <p>As we can see, for most products, we tend to consume more products that are produced by Switzerland rather than imported ones.
-    However, categories such as fruits greatly depends on the importation from other countries. This is due to the fact that we consume
-    fruits that cannot grow in Switzerland, due to the climate, and the the demand is bigger than what the country can offer.
+    <p>As we can see, for most products, we tend to consume more products that are produced by Switzerland rather than
+        imported ones.
+        However, categories such as fruits greatly depends on the importation from other countries. This is due to the
+        fact that we consume
+        fruits that cannot grow in Switzerland, due to the climate, and the the demand is bigger than what the country
+        can offer.
     </p>
 
     <div>
